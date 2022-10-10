@@ -1,0 +1,156 @@
+[
+  {
+    "displayName": "Zeqa",
+    "name": "zeqa",
+    "ip": "zeqa.net",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "NetherGames",
+    "name": "nethergames",
+    "ip": "play.nethergames.org",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "Lifeboat",
+    "name": "lbsg",
+    "ip": "mco.lbsg.net",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "HiveMC",
+    "name": "hivemc",
+    "ip": "hivebedrock.network",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "HyperLands",
+    "name": "hyperlands",
+    "ip": "play.hyperlandsmc.net",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "InPvP",
+    "name": "inpvp",
+    "ip": "play.inpvp.net",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "CubeCraft",
+    "name": "cubecraft",
+    "ip": "mco.cubecraft.net",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "PixelParadise",
+    "name": "pixelparadise",
+    "ip": "play.pixelparadise.gg",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "VenomPvP",
+    "name": "venompvp",
+    "ip": "venompvp.net",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Ectary",
+    "name": "ectary",
+    "ip": "ectary.club",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Vasar",
+    "name": "vasar",
+    "ip": "vasar.land",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Avengetech",
+    "name": "avengetech",
+    "ip": "play.avengetech.me",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "NitroFaction",
+    "name": "nitrofaction",
+    "ip": "Nitrofaction.fr",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "CraftersMC",
+    "name": "craftersmc",
+    "ip": "play.craftersmc.net",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "NationsGlory",
+    "name": "NationsGlory",
+    "ip": "bedrock.nationsglory.fr",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Plutonium",
+    "name": "plutonium",
+    "ip": "mcpe.plutonium.best",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Futonium",
+    "name": "futonium",
+    "ip": "play.futonium.eu",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "ECPEHub [Factions]",
+    "name": "ecpehub-factions",
+    "ip": "console.ecpehub.net",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "CentilMC",
+    "name": "centilmc",
+    "ip": "play.centilemc.net",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "OwnagePE",
+    "name": "ownagepe",
+    "ip": "OwnagePE.com",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "Aetherpvp",
+    "name": "aetherpvp",
+    "ip": "aetherpvp.com",
+    "port": 19132,
+    "featured": false
+  },
+  {
+    "displayName": "InfinityMCPE",
+    "name": "infinitymcpe",
+    "ip": "play.infinitymcpe.com",
+    "port": 19132,
+    "featured": false
+  }
+]
