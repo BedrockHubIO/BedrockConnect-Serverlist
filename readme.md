@@ -14,7 +14,7 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 
 ## Serverlist
 
-| Server Name        | IP                      | Featured? | Link |
+| Server Name        | IP                      | Featured? | Link (Serverpack) |
 |--------------------|-------------------------|-----------|---------------------------------------------|
 | InPvP              | play.inpvp.net          | &#9745;   | https://pack.bedrockhub.io/inpvp  
 | Lifeboat           | mco.lbsg.net            | &#9745;   | https://pack.bedrockhub.io/lbsg
@@ -38,3 +38,7 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 | OwnagePE           | OwnagePE.com            |           | https://pack.bedrockhub.io/ownagepe
 | Aetherpvp          | aetherpvp.com           |           | https://pack.bedrockhub.io/aetherpvp
 | InfinityMCPE       | play.infinitymcpe.com   |           | https://pack.bedrockhub.io/aetherpvp
+
+
+
+If "-" is in the Link category, the server has no server pack!!!
