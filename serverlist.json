@@ -32,7 +32,7 @@
     "name": "hyperlands",
     "ip": "play.hyperlandsmc.net",
     "port": 19132,
-    "featured": true
+    "featured": false
   },
   {
     "displayName": "InPvP",
