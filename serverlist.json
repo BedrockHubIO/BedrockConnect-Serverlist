@@ -121,7 +121,7 @@
   {
     "displayName": "ECPEHub [Factions]",
     "name": "ecpehub-factions",
-    "ip": "console.ecpehub.net",
+    "ip": "ecpehub.net",
     "port": 19132,
     "featured": false
   },
