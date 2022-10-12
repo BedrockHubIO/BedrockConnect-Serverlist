@@ -40,5 +40,6 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 | InfinityMCPE       | play.infinitymcpe.com   |           | https://pack.bedrockhub.io/aetherpvp
 
 
+## Important information
 
 If "-" is in the Link category, the server has no server pack!!!
