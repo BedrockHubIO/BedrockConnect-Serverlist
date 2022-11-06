@@ -21,7 +21,7 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 | HiveMC             | hivebedrock.network     | &#9745;   | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   | https://pack.bedrockhub.io/pixelparadise
-| NetherGames        | play.nethergames.org    |           | https://pack.bedrockhub.io/pixelparadise
+| NetherGames        | play.nethergames.org    |           | https://pack.bedrockhub.io/nethergames
 | Zeqa               | zeqa.net                |           | https://pack.bedrockhub.io/zeqa
 | HyperLands         | play.hyperlandsmc.net   |           | https://pack.bedrockhub.io/hyperlands
 | VenomPvP           | venompvp.net            |           | https://pack.bedrockhub.io/venompvp
