@@ -37,6 +37,7 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 | OwnagePE           | OwnagePE.com            |           | https://pack.bedrockhub.io/ownagepe
 | Aetherpvp          | aetherpvp.com           |           | https://pack.bedrockhub.io/aetherpvp
 | InfinityMCPE       | play.infinitymcpe.com   |           | https://pack.bedrockhub.io/aetherpvp
+| Ausoleil           | ausoleil.net            |           | https://pack.bedrockhub.io/ausoleil
 
 
 ## Important information
