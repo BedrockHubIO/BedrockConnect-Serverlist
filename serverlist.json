@@ -152,5 +152,12 @@
     "ip": "play.infinitymcpe.com",
     "port": 19132,
     "featured": false
+  },
+  {
+    "displayName": "Ausoleil",
+    "name": "ausoleil",
+    "ip": "ausoleil.net",
+    "port": 19132,
+    "featured": false
   }
 ]
