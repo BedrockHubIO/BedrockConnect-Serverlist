@@ -11,7 +11,7 @@
     "name": "nethergames",
     "ip": "play.nethergames.org",
     "port": 19132,
-    "featured": false
+    "featured": true
   },
   {
     "displayName": "NetherGames",
