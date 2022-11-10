@@ -133,20 +133,6 @@
     "featured": false
   },
   {
-    "displayName": "OwnagePE",
-    "name": "ownagepe",
-    "ip": "OwnagePE.com",
-    "port": 19132,
-    "featured": false
-  },
-  {
-    "displayName": "Aetherpvp",
-    "name": "aetherpvp",
-    "ip": "aetherpvp.com",
-    "port": 19132,
-    "featured": false
-  },
-  {
     "displayName": "InfinityMCPE",
     "name": "infinitymcpe",
     "ip": "play.infinitymcpe.com",

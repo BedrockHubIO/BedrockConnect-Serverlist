@@ -34,9 +34,7 @@ The official list for the supported and featured servers. APP: BedrockConnect (I
 | Plutonium          | mcpe.plutonium.best     |           | https://pack.bedrockhub.io/plutonium
 | Futonium           | play.futonium.eu        |           | https://pack.bedrockhub.io/futonium
 | ECPEHub [Factions] | ecpehub.net             |           | https://pack.bedrockhub.io/ecpehub-factions
-| OwnagePE           | OwnagePE.com            |           | https://pack.bedrockhub.io/ownagepe
-| Aetherpvp          | aetherpvp.com           |           | https://pack.bedrockhub.io/aetherpvp
-| InfinityMCPE       | play.infinitymcpe.com   |           | https://pack.bedrockhub.io/aetherpvp
+| InfinityMCPE       | play.infinitymcpe.com   |           | https://pack.bedrockhub.io/infinitymcpe
 | Ausoleil           | ausoleil.net            |           | https://pack.bedrockhub.io/ausoleil
 
 
