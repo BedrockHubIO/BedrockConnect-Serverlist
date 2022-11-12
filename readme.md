@@ -5,7 +5,6 @@ The official list for the supported and featured servers.
 APP: BedrockConnect 
 IOS: https://apps.apple.com/us/app/bedrockconnect/id6443529739
 Android: Soon
-
 ## Authors
 
 - [@Pleeder](https://www.github.com/davidxdgm)
