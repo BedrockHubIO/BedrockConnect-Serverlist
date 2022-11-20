@@ -5,7 +5,7 @@
     "name": "nethergames",
     "ip": "play.nethergames.org",
     "port": 19132,
-    "featured": true
+    "featured": false
   },
   {
     "displayName": "Zeqa",
