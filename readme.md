@@ -26,7 +26,7 @@ Android: https://play.google.com/store/apps/details?id=io.bedrockhub.connector.b
 | CubeCraft          | mco.cubecraft.net       | &#9745;   | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   | https://pack.bedrockhub.io/pixelparadise
 | NetherGames        | play.nethergames.org    | &#9745;   | https://pack.bedrockhub.io/nethergames
-| Zeqa               | zeqa.net                |           | https://pack.bedrockhub.io/zeqa
+| Zeqa               | zeqa.net                | &#9745;   | https://pack.bedrockhub.io/zeqa
 | HyperLands         | play.hyperlandsmc.net   |           | https://pack.bedrockhub.io/hyperlands
 | VenomPvP           | venompvp.net            |           | https://pack.bedrockhub.io/venompvp
 | Ectary             | ectary.club             |           | https://pack.bedrockhub.io/ectary

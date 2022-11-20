@@ -1,15 +1,16 @@
 [
-  {
-    "displayName": "Zeqa",
-    "name": "zeqa",
-    "ip": "zeqa.net",
-    "port": 19132,
-    "featured": false
-  },
+
   {
     "displayName": "NetherGames",
     "name": "nethergames",
     "ip": "play.nethergames.org",
+    "port": 19132,
+    "featured": true
+  },
+  {
+    "displayName": "Zeqa",
+    "name": "zeqa",
+    "ip": "zeqa.net",
     "port": 19132,
     "featured": true
   },
