@@ -31,7 +31,7 @@
   {
     "displayName": "HiveMC",
     "name": "hivemc",
-    "ip": "hivebedrock.network",
+    "ip": "geo.hivebedrock.network",
     "port": 19132,
     "featured": true
   },
