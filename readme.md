@@ -22,7 +22,7 @@ Android: https://play.google.com/store/apps/details?id=io.bedrockhub.connector.b
 |--------------------|-------------------------|-----------|---------------------------------------------|
 | InPvP              | play.inpvp.net          | &#9745;   | https://pack.bedrockhub.io/inpvp  
 | Lifeboat           | mco.lbsg.net            | &#9745;   | https://pack.bedrockhub.io/lbsg
-| HiveMC             | hivebedrock.network     | &#9745;   | https://pack.bedrockhub.io/hivemc
+| HiveMC             | geo.hivebedrock.network | &#9745;   | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   | https://pack.bedrockhub.io/pixelparadise
 | Zeqa               | zeqa.net                | &#9745;   | https://pack.bedrockhub.io/zeqa
