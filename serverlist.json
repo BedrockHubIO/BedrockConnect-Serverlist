@@ -1,150 +1,170 @@
 [
-
   {
     "displayName": "NetherGames",
-    "name": "nethergames",
+    "packName": "nethergames",
     "ip": "play.nethergames.org",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": true
   },
   {
     "displayName": "Zeqa",
-    "name": "zeqa",
+    "packName": "zeqa",
     "ip": "zeqa.net",
     "port": 19132,
-    "featured": true
+    "featured": false,
+    "partner": true
   },
   {
     "displayName": "NetherGames",
-    "name": "nethergames",
+    "packName": "nethergames",
     "ip": "play.nethergames.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Lifeboat",
-    "name": "lbsg",
+    "packName": "lbsg",
     "ip": "mco.lbsg.net",
     "port": 19132,
-    "featured": true
+    "featured": true,
+    "partner": false
   },
   {
     "displayName": "HiveMC",
-    "name": "hivemc",
+    "packName": "hivemc",
     "ip": "geo.hivebedrock.network",
     "port": 19132,
-    "featured": true
+    "featured": true,
+    "partner": false
   },
   {
     "displayName": "HyperLands",
-    "name": "hyperlands",
+    "packName": "hyperlands",
     "ip": "play.hyperlandsmc.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "InPvP",
-    "name": "inpvp",
+    "packName": "inpvp",
     "ip": "play.inpvp.net",
     "port": 19132,
-    "featured": true
+    "featured": true,
+    "partner": false
   },
   {
     "displayName": "CubeCraft",
-    "name": "cubecraft",
+    "packName": "cubecraft",
     "ip": "mco.cubecraft.net",
     "port": 19132,
-    "featured": true
+    "featured": true,
+    "partner": false
   },
   {
     "displayName": "PixelParadise",
-    "name": "pixelparadise",
+    "packName": "pixelparadise",
     "ip": "play.pixelparadise.gg",
     "port": 19132,
-    "featured": true
+    "featured": true,
+    "partner": false
   },
   {
     "displayName": "VenomPvP",
-    "name": "venompvp",
+    "packName": "venompvp",
     "ip": "venompvp.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Ectary",
-    "name": "ectary",
+    "packName": "ectary",
     "ip": "ectary.club",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Vasar",
-    "name": "vasar",
+    "packName": "vasar",
     "ip": "vasar.land",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Avengetech",
-    "name": "avengetech",
+    "packName": "avengetech",
     "ip": "play.avengetech.me",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "NitroFaction",
-    "name": "nitrofaction",
+    "packName": "nitrofaction",
     "ip": "Nitrofaction.fr",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "CraftersMC",
-    "name": "craftersmc",
+    "packName": "craftersmc",
     "ip": "play.craftersmc.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "NationsGlory",
-    "name": "NationsGlory",
+    "packName": "NationsGlory",
     "ip": "bedrock.nationsglory.fr",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Plutonium",
-    "name": "plutonium",
+    "packName": "plutonium",
     "ip": "mcpe.plutonium.best",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Futonium",
-    "name": "futonium",
+    "packName": "futonium",
     "ip": "play.futonium.eu",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "ECPEHub [Factions]",
-    "name": "ecpehub-factions",
+    "packName": "ecpehub-factions",
     "ip": "ecpehub.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "InfinityMCPE",
-    "name": "infinitymcpe",
+    "packName": "infinitymcpe",
     "ip": "play.infinitymcpe.com",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Ausoleil",
-    "name": "ausoleil",
+    "packName": "ausoleil",
     "ip": "ausoleil.net",
     "port": 19132,
-    "featured": false
+    "featured": false,
+    "partner": false
   }
 ]

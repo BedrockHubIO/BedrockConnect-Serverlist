@@ -3,10 +3,9 @@
 The official list for the supported and featured servers.
 
 APP: BedrockConnect 
+https://bedrockconnect.bedrockhub.io
 
-IOS: https://apps.apple.com/us/app/bedrockconnect/id6443529739
 
-Android: https://play.google.com/store/apps/details?id=io.bedrockhub.connector.bedrockhub_connector
 ## Authors
 
 - [@Pleeder](https://www.github.com/davidxdgm)
@@ -26,7 +25,7 @@ Android: https://play.google.com/store/apps/details?id=io.bedrockhub.connector.b
 | CubeCraft          | mco.cubecraft.net       | &#9745;   | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   | https://pack.bedrockhub.io/pixelparadise
 | Zeqa               | zeqa.net                | &#9745;   | https://pack.bedrockhub.io/zeqa
-| NetherGames        | play.nethergames.org    |           | https://pack.bedrockhub.io/nethergames
+| NetherGames        | play.nethergames.org    | &#9745;   | https://pack.bedrockhub.io/nethergames
 | HyperLands         | play.hyperlandsmc.net   |           | https://pack.bedrockhub.io/hyperlands
 | VenomPvP           | venompvp.net            |           | https://pack.bedrockhub.io/venompvp
 | Ectary             | ectary.club             |           | https://pack.bedrockhub.io/ectary
