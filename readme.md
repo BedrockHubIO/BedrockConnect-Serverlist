@@ -19,7 +19,6 @@ https://bedrockconnect.bedrockhub.io
 
 | Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
 |--------------------|-------------------------|-----------|---------|------------------------------------|
-
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
 | Paulberger         | mc.Paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
