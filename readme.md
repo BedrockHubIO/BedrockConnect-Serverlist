@@ -41,6 +41,7 @@ https://bedrockconnect.bedrockhub.io
 | ECPEHub [Factions] | ecpehub.net             |           |         | https://pack.bedrockhub.io/ecpehub-factions
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
 | Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil
+| Laintania          | bedrock.laintania.net   |           |         | https://pack.bedrockhub.io/laintania
 
 
 ## Important information
