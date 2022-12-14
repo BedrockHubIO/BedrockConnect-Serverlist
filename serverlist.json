@@ -16,6 +16,14 @@
     "partner": true
   },
   {
+    "displayName": "Paulberger",
+    "packName": null,
+    "ip": "mc.paulberger.gg",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "NetherGames",
     "packName": "nethergames",
     "ip": "play.nethergames.net",
@@ -163,6 +171,14 @@
     "displayName": "Ausoleil",
     "packName": "ausoleil",
     "ip": "ausoleil.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Laintania",
+    "packName": "laintania",
+    "ip": "bedrock.laintania.net",
     "port": 19132,
     "featured": false,
     "partner": false
