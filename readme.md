@@ -21,7 +21,11 @@ https://bedrockconnect.bedrockhub.io
 |--------------------|-------------------------|-----------|---------|------------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
+<<<<<<< Updated upstream
 | Paulberger         | mc.Paulberger.gg        |           | &#9745; | - No Server Pack 
+=======
+| Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
+>>>>>>> Stashed changes
 | InPvP              | play.inpvp.net          | &#9745;   |         | https://pack.bedrockhub.io/inpvp  
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
