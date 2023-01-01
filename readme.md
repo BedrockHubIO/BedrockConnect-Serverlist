@@ -21,12 +21,7 @@ https://bedrockconnect.bedrockhub.io
 |--------------------|-------------------------|-----------|---------|------------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
-<<<<<<< Updated upstream
 | Paulberger         | mc.Paulberger.gg        |           | &#9745; | - No Server Pack 
-=======
-| Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
->>>>>>> Stashed changes
-| InPvP              | play.inpvp.net          | &#9745;   |         | https://pack.bedrockhub.io/inpvp  
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
@@ -44,7 +39,8 @@ https://bedrockconnect.bedrockhub.io
 | ECPEHub [Factions] | ecpehub.net             |           |         | https://pack.bedrockhub.io/ecpehub-factions
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
 | Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil
-| Laintania          | bedrock.laintania.net   |           |         | https://pack.bedrockhub.io/laintania
+| ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
+
 
 
 ## Important information
