@@ -21,7 +21,7 @@ https://bedrockconnect.bedrockhub.io
 |--------------------|-------------------------|-----------|---------|------------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
-| Paulberger         | mc.paulberger.gg        |           | &#9745; | - No Server Pack 
+| Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
