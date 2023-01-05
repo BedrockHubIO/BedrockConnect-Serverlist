@@ -10,7 +10,7 @@
   {
     "displayName": "GrieferMine",
     "packName": "griefermine",
-    "ip": "join.griefermine.net",
+    "ip": "griefermine.net",
     "port": 19132,
     "featured": false,
     "partner": true
