@@ -5,20 +5,20 @@
     "ip": "play.nethergames.org",
     "port": 19132,
     "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa",
+    "packName": "zeqa",
+    "ip": "zeqa.net",
+    "port": 19132,
+    "featured": false,
     "partner": true
   },
   {
     "displayName": "GrieferMine",
     "packName": "griefermine",
     "ip": "griefermine.net",
-    "port": 19132,
-    "featured": false,
-    "partner": true
-  },
-  {
-    "displayName": "Zeqa",
-    "packName": "zeqa",
-    "ip": "zeqa.net",
     "port": 19132,
     "featured": false,
     "partner": true
