@@ -22,7 +22,7 @@ https://bedrockconnect.bedrockhub.io
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
-| ZeferaMC           | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
+| Griefermine        | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
