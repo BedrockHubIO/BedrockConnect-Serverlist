@@ -23,6 +23,7 @@ https://bedrockconnect.bedrockhub.io
 | NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
 | Griefermine        | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
+| GrandTheftMCPE     | grandtheft.mcpe.me      |           | &#9745; | https://pack.bedrockhub.io/grandtheftmcpe
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft

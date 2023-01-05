@@ -32,6 +32,14 @@
     "partner": true
   },
   {
+    "displayName": "GrandTheftMCPE",
+    "packName": "grandtheftmcpe",
+    "ip": "grandtheft.mcpe.me",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "NetherGames",
     "packName": "nethergames",
     "ip": "play.nethergames.net",
