@@ -200,6 +200,14 @@
     "partner": false
   },
   {
+    "displayName": "StrikeMC",
+    "packName": "strikemc",
+    "ip": "java.strikemc.xyz",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "ZeferaMC",
     "packName": "zeferamc",
     "ip": "zeferamc.com",

@@ -42,6 +42,7 @@ https://bedrockconnect.bedrockhub.io
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
 | Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
+| StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
 
 
 
