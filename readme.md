@@ -43,6 +43,8 @@ https://bedrockconnect.bedrockhub.io
 | Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
+| GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
+
 
 
 
