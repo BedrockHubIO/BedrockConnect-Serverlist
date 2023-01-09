@@ -112,14 +112,6 @@
     "partner": false
   },
   {
-    "displayName": "Vasar",
-    "packName": "vasar",
-    "ip": "vasar.land",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Avengetech",
     "packName": "avengetech",
     "ip": "play.avengetech.me",

@@ -31,7 +31,6 @@ https://bedrockconnect.bedrockhub.io
 | HyperLands         | play.hyperlandsmc.net   |           |         | https://pack.bedrockhub.io/hyperlands
 | VenomPvP           | venompvp.net            |           |         | https://pack.bedrockhub.io/venompvp
 | Ectary             | ectary.club             |           |         | https://pack.bedrockhub.io/ectary
-| Vasar              | vasar.land              |           |         | https://pack.bedrockhub.io/vasar
 | Avengetech         | play.avengetech.me      |           |         | https://pack.bedrockhub.io/avengetech
 | NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
 | CraftersMC         | play.craftersmc.net     |           |         | https://pack.bedrockhub.io/craftersmc
