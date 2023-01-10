@@ -33,7 +33,6 @@ https://bedrockconnect.bedrockhub.io
 | Ectary             | ectary.club             |           |         | https://pack.bedrockhub.io/ectary
 | Avengetech         | play.avengetech.me      |           |         | https://pack.bedrockhub.io/avengetech
 | NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
-| CraftersMC         | play.craftersmc.net     |           |         | https://pack.bedrockhub.io/craftersmc
 | NationsGlory       | bedrock.nationsglory.fr |           |         | https://pack.bedrockhub.io/NationsGlory
 | Plutonium          | mcpe.plutonium.best     |           |         | https://pack.bedrockhub.io/plutonium
 | Futonium           | play.futonium.eu        |           |         | https://pack.bedrockhub.io/futonium

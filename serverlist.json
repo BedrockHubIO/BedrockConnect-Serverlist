@@ -128,14 +128,6 @@
     "partner": false
   },
   {
-    "displayName": "CraftersMC",
-    "packName": "craftersmc",
-    "ip": "play.craftersmc.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "NationsGlory",
     "packName": "NationsGlory",
     "ip": "bedrock.nationsglory.fr",
