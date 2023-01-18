@@ -8,17 +8,17 @@
     "partner": false
   },
   {
-    "displayName": "Zeqa",
-    "packName": "zeqa",
-    "ip": "zeqa.net",
+    "displayName": "TimeCrack",
+    "packName": "timecrack",
+    "ip": "play.timecrack.net",
     "port": 19132,
     "featured": false,
     "partner": true
   },
   {
-    "displayName": "TimeCrack",
-    "packName": "timecrack",
-    "ip": "play.timecrack.net",
+    "displayName": "Zeqa",
+    "packName": "zeqa",
+    "ip": "zeqa.net",
     "port": 19132,
     "featured": false,
     "partner": true
