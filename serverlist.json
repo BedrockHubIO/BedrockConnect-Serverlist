@@ -104,14 +104,6 @@
     "partner": false
   },
   {
-    "displayName": "VenomPvP",
-    "packName": "venompvp",
-    "ip": "venompvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Ectary",
     "packName": "ectary",
     "ip": "ectary.club",

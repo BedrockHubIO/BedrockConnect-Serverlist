@@ -30,7 +30,6 @@ https://bedrockconnect.bedrockhub.io
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   |         | https://pack.bedrockhub.io/pixelparadise
 | HyperLands         | play.hyperlandsmc.net   |           |         | https://pack.bedrockhub.io/hyperlands
-| VenomPvP           | venompvp.net            |           |         | https://pack.bedrockhub.io/venompvp
 | Ectary             | ectary.club             |           |         | https://pack.bedrockhub.io/ectary
 | Avengetech         | play.avengetech.me      |           |         | https://pack.bedrockhub.io/avengetech
 | NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
