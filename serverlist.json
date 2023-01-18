@@ -16,6 +16,14 @@
     "partner": true
   },
   {
+    "displayName": "TimeCrack",
+    "packName": "timecrack",
+    "ip": "play.timecrack.net",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "GrieferMine",
     "packName": "griefermine",
     "ip": "griefermine.net",
@@ -202,7 +210,7 @@
   {
     "displayName": "GommeHD",
     "packName": "gommehd",
-    "ip": "GommeHD.net",
+    "ip": "gommehd.net",
     "port": 19132,
     "featured": false,
     "partner": false
