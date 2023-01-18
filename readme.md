@@ -36,7 +36,6 @@ https://bedrockconnect.bedrockhub.io
 | NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
 | NationsGlory       | bedrock.nationsglory.fr |           |         | https://pack.bedrockhub.io/NationsGlory
 | Plutonium          | mcpe.plutonium.best     |           |         | https://pack.bedrockhub.io/plutonium
-| Futonium           | play.futonium.eu        |           |         | https://pack.bedrockhub.io/futonium
 | ECPEHub [Factions] | ecpehub.net             |           |         | https://pack.bedrockhub.io/ecpehub-factions
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
 | Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil

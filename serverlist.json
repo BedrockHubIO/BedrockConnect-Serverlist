@@ -152,14 +152,6 @@
     "partner": false
   },
   {
-    "displayName": "Futonium",
-    "packName": "futonium",
-    "ip": "play.futonium.eu",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "ECPEHub [Factions]",
     "packName": "ecpehub-factions",
     "ip": "ecpehub.net",
