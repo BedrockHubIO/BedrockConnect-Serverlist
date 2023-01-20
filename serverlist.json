@@ -15,6 +15,14 @@
     "featured": false,
     "partner": true
   },
+    {
+    "displayName": "FirstMC",
+    "packName": "firstmc",
+    "ip": "FirstMC.de",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
   {
     "displayName": "Zeqa",
     "packName": "zeqa",

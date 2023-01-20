@@ -25,6 +25,7 @@ https://bedrockconnect.bedrockhub.io
 | Griefermine        | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           | &#9745; | https://pack.bedrockhub.io/grandtheftmcpe
 | TimeCrack          | play.timecrack.net      |           | &#9745; | https://pack.bedrockhub.io/timecrack
+| FristMC            | FirstMc.de              |           | &#9745; | https://pack.bedrockhub.io/firstmc
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
@@ -41,6 +42,7 @@ https://bedrockconnect.bedrockhub.io
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
 | GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
+
 
 
 
