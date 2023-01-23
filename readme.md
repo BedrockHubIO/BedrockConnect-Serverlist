@@ -20,7 +20,6 @@ https://bedrockconnect.bedrockhub.io
 | Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
 |--------------------|-------------------------|-----------|---------|------------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
-| NetherGames        | play.nethergames.org    |           | &#9745; | https://pack.bedrockhub.io/nethergames
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
 | Griefermine        | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           | &#9745; | https://pack.bedrockhub.io/grandtheftmcpe
@@ -30,6 +29,7 @@ https://bedrockconnect.bedrockhub.io
 | HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
 | CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
 | PixelParadise      | play.pixelparadise.gg   | &#9745;   |         | https://pack.bedrockhub.io/pixelparadise
+| NetherGames        | play.nethergames.org    |           |         | https://pack.bedrockhub.io/nethergames
 | HyperLands         | play.hyperlandsmc.net   |           |         | https://pack.bedrockhub.io/hyperlands
 | Ectary             | ectary.club             |           |         | https://pack.bedrockhub.io/ectary
 | Avengetech         | play.avengetech.me      |           |         | https://pack.bedrockhub.io/avengetech
