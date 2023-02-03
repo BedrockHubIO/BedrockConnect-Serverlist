@@ -42,6 +42,7 @@ https://bedrockconnect.bedrockhub.io
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
 | GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
+| Vasar              | vasar.land              |           |         | https://pack.bedrockhub.io/vasar
 
 
 
