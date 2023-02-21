@@ -43,6 +43,7 @@ https://bedrockconnect.bedrockhub.io
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
 | GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
 | Vasar              | vasar.land              |           |         | https://pack.bedrockhub.io/vasar
+| Opsucht            | opsucht.net             |           |         | https://pack.bedrockhub.io/opsucht
 
 
 
