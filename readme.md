@@ -21,8 +21,6 @@ https://bedrockconnect.bedrockhub.io
 |--------------------|-------------------------|-----------|---------|------------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
-| Griefermine        | griefermine.net         |           | &#9745; | https://pack.bedrockhub.io/griefermine
-| GrandTheftMCPE     | grandtheft.mcpe.me      |           | &#9745; | https://pack.bedrockhub.io/grandtheftmcpe
 | TimeCrack          | play.timecrack.net      |           | &#9745; | https://pack.bedrockhub.io/timecrack
 | FirstMC            | FirstMc.de              |           | &#9745; | https://pack.bedrockhub.io/firstmc
 | Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
@@ -44,6 +42,8 @@ https://bedrockconnect.bedrockhub.io
 | GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
 | Vasar              | vasar.land              |           |         | https://pack.bedrockhub.io/vasar
 | Opsucht            | opsucht.net             |           |         | https://pack.bedrockhub.io/opsucht
+| Griefermine        | griefermine.net         |           |         | https://pack.bedrockhub.io/griefermine
+| GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
 
 
 
