@@ -37,7 +37,7 @@ https://bedrockconnect.bedrockhub.io
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
-| GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
+| GommeHD            | gommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
 | OpSucht            | opsucht.net             |           |         | https://pack.bedrockhub.io/opsucht
 | Griefermine        | griefermine.net         |           |         | https://pack.bedrockhub.io/griefermine
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
