@@ -34,17 +34,14 @@ https://bedrockconnect.bedrockhub.io
 | NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
 | NationsGlory       | bedrock.nationsglory.fr |           |         | https://pack.bedrockhub.io/NationsGlory
 | Plutonium          | mcpe.plutonium.best     |           |         | https://pack.bedrockhub.io/plutonium
-| ECPEHub [Factions] | ecpehub.net             |           |         | https://pack.bedrockhub.io/ecpehub-factions
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
-| Ausoleil           | ausoleil.net            |           |         | https://pack.bedrockhub.io/ausoleil
 | ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
 | GommeHD            | GommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
-| Vasar              | vasar.land              |           |         | https://pack.bedrockhub.io/vasar
 | Opsucht            | opsucht.net             |           |         | https://pack.bedrockhub.io/opsucht
 | Griefermine        | griefermine.net         |           |         | https://pack.bedrockhub.io/griefermine
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
-
+| VenomPvP           | venompvp.net            |           |         | https://pack.bedrockhub.io/venompvp
 
 
 

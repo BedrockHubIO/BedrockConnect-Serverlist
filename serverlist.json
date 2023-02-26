@@ -15,7 +15,7 @@
     "featured": false,
     "partner": true
   },
-    {
+  {
     "displayName": "FirstMC",
     "packName": "firstmc",
     "ip": "FirstMC.de",
@@ -152,33 +152,9 @@
     "partner": false
   },
   {
-    "displayName": "ECPEHub [Factions]",
-    "packName": "ecpehub-factions",
-    "ip": "ecpehub.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "InfinityMCPE",
     "packName": "infinitymcpe",
     "ip": "play.infinitymcpe.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Ausoleil",
-    "packName": "ausoleil",
-    "ip": "ausoleil.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Laintania",
-    "packName": "laintania",
-    "ip": "bedrock.laintania.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -208,17 +184,17 @@
     "partner": false
   },  
   {
-    "displayName": "Vasar",
-    "packName": "vasar",
-    "ip": "vasar.land",
+    "displayName": "OpSucht",
+    "packName": "opsucht",
+    "ip": "opsucht.net",
     "port": 19132,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "OpSucht",
-    "packName": "opsucht",
-    "ip": "opsucht.net",
+    "displayName": "VenomPvP",
+    "packName": "venompvp",
+    "ip": "venompvp.net",
     "port": 19132,
     "featured": false,
     "partner": false
