@@ -42,6 +42,7 @@ https://bedrockconnect.bedrockhub.io
 | Griefermine        | griefermine.net         |           |         | https://pack.bedrockhub.io/griefermine
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
 | VenomPvP           | venompvp.net            |           |         | https://pack.bedrockhub.io/venompvp
+| RusherVace         | play.rushervace.net     |           |         | https://pack.bedrockhub.io/rushervace
 
 
 
