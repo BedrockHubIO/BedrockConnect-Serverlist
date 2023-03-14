@@ -32,6 +32,30 @@
     "partner": true
   },
   {
+    "displayName": "Zeqa Asia",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Europe",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa NA",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "GrieferMine",
     "packName": "griefermine",
     "ip": "griefermine.net",
