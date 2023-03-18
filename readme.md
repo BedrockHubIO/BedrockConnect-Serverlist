@@ -43,6 +43,7 @@ https://bedrockconnect.bedrockhub.io
 | GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
 | VenomPvP           | venompvp.net            |           |         | https://pack.bedrockhub.io/venompvp
 | RusherVace         | play.rushervace.net     |           |         | https://pack.bedrockhub.io/rushervace
+| RiverNetwork       | rivernetwork.net        |           |         | https://pack.bedrockhub.io/rivernetwork
 
 
 

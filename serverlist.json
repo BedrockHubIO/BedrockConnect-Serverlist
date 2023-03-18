@@ -29,7 +29,7 @@
     "ip": "zeqa.net",
     "port": 19132,
     "featured": false,
-    "partner": true
+    "partner": false
   },
   {
     "displayName": "Zeqa Asia",
@@ -227,6 +227,14 @@
     "displayName": "RusherVace",
     "packName": "rushervace",
     "ip": "play.rushervace.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "RiverNetwork",
+    "packName": "rivernetwork",
+    "ip": "rivernetwork.net",
     "port": 19132,
     "featured": false,
     "partner": false
