@@ -216,14 +216,6 @@
     "partner": false
   },
   {
-    "displayName": "VenomPvP",
-    "packName": "venompvp",
-    "ip": "venompvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "RusherVace",
     "packName": "rushervace",
     "ip": "play.rushervace.net",
