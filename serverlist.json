@@ -230,5 +230,13 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "AkumaMC",
+    "packName": "akumamc",
+    "ip": "bedrock.akumamc.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
