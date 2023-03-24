@@ -238,5 +238,21 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Cora",
+    "packName": "cora",
+    "ip": "cora.land",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Cora",
+    "packName": "cora",
+    "ip": "play.cora.land",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]

@@ -44,6 +44,7 @@ https://bedrockconnect.bedrockhub.io
 | RusherVace         | play.rushervace.net     |           |         | https://pack.bedrockhub.io/rushervace
 | RiverNetwork       | rivernetwork.net        |           |         | https://pack.bedrockhub.io/rivernetwork
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
+| Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
 
 
