@@ -29,7 +29,7 @@
     "ip": "zeqa.net",
     "port": 19132,
     "featured": false,
-    "partner": false
+    "partner": true
   },
   {
     "displayName": "Zeqa Asia",
