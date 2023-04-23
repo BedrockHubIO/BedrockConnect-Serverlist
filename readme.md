@@ -64,7 +64,7 @@ Disadvantages:
 ### How do I add a texture pack to my server?
 
 #### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
-- [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
+- [Documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
 
 
 #### [Nukkit](https://discord.com/invite/5PzMkyK):
