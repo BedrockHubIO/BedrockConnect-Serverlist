@@ -40,7 +40,7 @@ It should be structured as follows:
 ```json
   {
     "displayName": "SERVERNAME",
-    "packName": "bedrockconnet",
+    "packName": "bedrockconnect",
     "ip": "SERVER IP",
     "port": 19132,
     "featured": false,
