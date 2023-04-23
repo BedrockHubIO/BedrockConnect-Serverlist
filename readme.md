@@ -31,6 +31,7 @@
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 | GreiferGames       | griefergames.net        |           |         | https://pack.bedrockhub.io/griefergames
+| Meynex SMP         | MeynexSMP.net           |           |         | https://pack.bedrockhub.io/griefermine
 
 
 # What is the easiest way to add my server to the list?

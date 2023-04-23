@@ -262,5 +262,13 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Meynex SMP",
+    "packName": "griefermine",
+    "ip": "MeynexSMP.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
