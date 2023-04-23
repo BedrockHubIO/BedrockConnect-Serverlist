@@ -31,9 +31,10 @@
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
+
 # What is the easiest way to add my server to the list?
 
-For this purpose, we have provided a [<strong>Serverpack.ZIP</strong>](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/raw/New-method-for-Server-Owner/serverpack.zip) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
+For this purpose, we have provided a [<strong>Serverpack.ZIP</strong>](https://pack.bedrockhub.io/bedrockconnect) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
 
 ```json
   {
