@@ -56,7 +56,7 @@ What are the advantages?
 - Good to have for console players. A better gaming experience! 
 
 Disadvantages: 
-* No disadvantages 
+*No disadvantages* 
 
 ### How do I add a texture pack to my server?
 #### Pocketmine Server
