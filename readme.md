@@ -60,14 +60,14 @@ What are the advantages?
 - It does not bother anyone. No device is affected by it  
 
 Disadvantages: 
-*No disadvantages* 
+<strong>*No disadvantages*</strong>
 
 ### How do I add a texture pack to my server?
 #### Pocketmine Server
 - [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml)
 
 #### Nukkit Server: 
-- Just move it into the Nukkit/resource_packs/ folder
+- Just move it into the *Nukkit/resource_packs/* folder
 
 #### Dragonfly: 
 - No documentation about it at the moment! 
