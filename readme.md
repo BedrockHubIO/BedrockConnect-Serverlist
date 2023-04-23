@@ -1,20 +1,3 @@
-# BedrockConnect Serverlist
-
-The official list for the supported and featured servers.
-
-APP: BedrockConnect 
-https://bedrockconnect.bedrockhub.io
-
-
-## Authors
-
-- [@Pleeder](https://www.github.com/davidxdgm)
-
-
-## Our Discord Server
-![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
-
-
 ## Serverlist
 
 | Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
@@ -46,10 +29,40 @@ https://bedrockconnect.bedrockhub.io
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
+# How do I get in the list easily?
+For this purpose we have provided a .ZIP file. 
+
+You maintain this on your server and provide a pull reguest. 
+
+You only have to add your server in the Serverlist.json. Please add it at the very bottom!
+It should be structured as follows:
+
+```json
+  {
+    "displayName": "SERVERNAME",
+    "packName": "bedrockconnet",
+    "ip": "SERVER IP",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  }
+```
 
 
+### How do I add a texture pack to my server?
+#### Pocketmine Server
+- [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml)
 
-## Important information
+#### Nukkit Server: 
+- Just move it into the Nukkit/resource_packs/ folder
 
-If "-" is in the Link category, the server has no server pack!!!
+#### Dragonfly: 
+- No documentation about it at the moment! 
+	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
 
+## Our Discord Server
+![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
+
+## Authors
+
+- [@Pleeder](https://www.github.com/davidxdgm)
