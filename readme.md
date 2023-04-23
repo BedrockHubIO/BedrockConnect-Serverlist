@@ -75,7 +75,7 @@ Disadvantages:
 
 
 #### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
-- Just move it into the *dragonfly\resources/* folder and restart server.
+- Just move it into the *dragonfly/resources/* folder and restart server.
 	
 	
 ##### How do you make a pull-request?
