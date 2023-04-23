@@ -51,6 +51,7 @@ It should be structured as follows:
 ```
 ### Serverlist.json
 ![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
+
 ### Why?
 What are the advantages?
 - Each server has the same server pack
