@@ -32,12 +32,8 @@
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
 # What is the easiest way to add my server to the list?
-For this purpose we have provided a [<strong>Serverpack.ZIP</strong>](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/raw/New-method-for-Server-Owner/serverpack.zip) file. 
-
-You maintain this on your server and provide a pull-request. 
-
-You only have to add your server in the <strong>serverlist.json</strong>. Please add it at the very bottom!
-It should be structured as follows:
+For this purpose we have provided a file. 
+For this purpose, we have provided a [<strong>Serverpack.ZIP</strong>](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/raw/New-method-for-Server-Owner/serverpack.zip) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
 
 ```json
   {
@@ -49,6 +45,7 @@ It should be structured as follows:
     "partner": false
   }
 ```
+
 ### Serverlist.json
 ![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
