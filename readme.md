@@ -61,7 +61,7 @@ It should be structured as follows:
 	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
 	
 ##### How do you make a pull-request?
-- (Documentation)[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests]
+- [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ## Our Discord Server
 ![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
