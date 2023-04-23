@@ -30,11 +30,11 @@
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
 # How do I get in the list easily?
-For this purpose we have provided a Serverpack.ZIP file. 
+For this purpose we have provided a <strong>Serverpack.ZIP</strong>file. 
 
 You maintain this on your server and provide a pull-request. 
 
-You only have to add your server in the Serverlist.json. Please add it at the very bottom!
+You only have to add your server in the <strong>serverlist.json</strong>. Please add it at the very bottom!
 It should be structured as follows:
 
 ```json
