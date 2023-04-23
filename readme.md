@@ -52,7 +52,7 @@ It should be structured as follows:
 What are the advantages?
 - Each server has the same server pack
 - It is easy to manage
-- This package is empty, so no memory hog! 
+- This pack is empty, so no memory hog! 
 - Good to have for console players. A better gaming experience! 
 
 Disadvantages: 
