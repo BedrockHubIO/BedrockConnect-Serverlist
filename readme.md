@@ -32,7 +32,7 @@
 # How do I get in the list easily?
 For this purpose we have provided a .ZIP file. 
 
-You maintain this on your server and provide a pull reguest. 
+You maintain this on your server and provide a pull-request. 
 
 You only have to add your server in the Serverlist.json. Please add it at the very bottom!
 It should be structured as follows:
@@ -59,6 +59,9 @@ It should be structured as follows:
 #### Dragonfly: 
 - No documentation about it at the moment! 
 	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
+	
+##### How do you make a pull-request?
+- (Documentation)[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests]
 
 ## Our Discord Server
 ![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
