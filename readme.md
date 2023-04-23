@@ -78,7 +78,3 @@ Disadvantages:
 
 ## Our Discord Server
 ![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
-
-## Authors
-
-- [@Pleeder](https://www.github.com/davidxdgm)
