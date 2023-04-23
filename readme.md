@@ -30,7 +30,7 @@
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
 # How do I get in the list easily?
-For this purpose we have provided a .ZIP file. 
+For this purpose we have provided a Serverpack.ZIP file. 
 
 You maintain this on your server and provide a pull-request. 
 
