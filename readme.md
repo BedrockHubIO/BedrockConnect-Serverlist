@@ -48,7 +48,6 @@ https://bedrockconnect.bedrockhub.io
 
 
 
-
 ## Important information
 
 If "-" is in the Link category, the server has no server pack!!!
