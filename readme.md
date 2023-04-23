@@ -1,4 +1,6 @@
-## Serverlist
+![BedrockConnect](https://cdn.discordapp.com/attachments/1022232337938911262/1099499823029305384/channels4_banner.jpg)
+
+# Serverlist
 
 | Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
 |--------------------|-------------------------|-----------|---------|------------------------------------|
