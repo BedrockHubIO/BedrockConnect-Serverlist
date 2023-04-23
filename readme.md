@@ -64,18 +64,22 @@ Disadvantages:
 <strong>*No disadvantages*</strong>
 
 ### How do I add a texture pack to my server?
-#### Pocketmine Server
-- [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml)
 
-#### Nukkit Server: 
-- Just move it into the *Nukkit/resource_packs/* folder
+#### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
+- [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
 
-#### Geyser:
-- Just move it into the *geyser-spigot/packs/* folder
 
-#### Dragonfly: 
-- There is currently no documentation available. 
-	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
+#### [Nukkit](https://discord.com/invite/5PzMkyK):
+- Just move it into the *nukkit/resource_packs/* folder and restart server. 
+
+
+#### [Geyser](https://discord.com/invite/geysermc):
+- Just move it into the *geyser-spigot/packs/* folder and restart server.
+
+
+#### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
+- Just move it into the *dragonfly\resources/* folder and restart server.
+	
 	
 ##### How do you make a pull-request?
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
