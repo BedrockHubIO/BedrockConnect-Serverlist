@@ -1,21 +1,6 @@
-# BedrockConnect Serverlist
+![BedrockConnect](https://cdn.discordapp.com/attachments/1022232337938911262/1099499823029305384/channels4_banner.jpg)
 
-The official list for the supported and featured servers.
-
-APP: BedrockConnect 
-https://bedrockconnect.bedrockhub.io
-
-
-## Authors
-
-- [@Pleeder](https://www.github.com/davidxdgm)
-
-
-## Our Discord Server
-![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
-
-
-## Serverlist
+# Serverlist
 
 | Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
 |--------------------|-------------------------|-----------|---------|------------------------------------|
@@ -46,9 +31,55 @@ https://bedrockconnect.bedrockhub.io
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
 | Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 
+# What is the easiest way to add my server to the list?
+For this purpose we have provided a [<strong>Serverpack.ZIP</strong>](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/raw/New-method-for-Server-Owner/serverpack.zip) file. 
 
+You maintain this on your server and provide a pull-request. 
 
-## Important information
+You only have to add your server in the <strong>serverlist.json</strong>. Please add it at the very bottom!
+It should be structured as follows:
 
-If "-" is in the Link category, the server has no server pack!!!
+```json
+  {
+    "displayName": "SERVERNAME",
+    "packName": "bedrockconnect",
+    "ip": "SERVER IP",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  }
+```
+### Serverlist.json
+![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
+### Why?
+What are the advantages?
+- Each server has the same server pack.
+- It is easy to manage
+- This pack is empty, so it doesn't hog memory!
+- It improves the gaming experience for console players.
+- It doesn't negatively impact any devices.
+
+Disadvantages: 
+<strong>*No disadvantages*</strong>
+
+### How do I add a texture pack to my server?
+#### Pocketmine Server
+- [Dokumentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml)
+
+#### Nukkit Server: 
+- Just move it into the *Nukkit/resource_packs/* folder
+
+#### Geyser:
+- Just move it into the *geyser-spigot/packs/* folder
+
+#### Dragonfly: 
+- There is currently no documentation available. 
+	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
+	
+##### How do you make a pull-request?
+- [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+## Our Discord Server
+![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
+=======
