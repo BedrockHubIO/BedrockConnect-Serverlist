@@ -47,7 +47,7 @@ It should be structured as follows:
     "partner": false
   }
 ```
-![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/800d7b5d5d4480a98d8c6922fc85f58843c70fba/0423-_1_.gif)
+![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
 ### How do I add a texture pack to my server?
 #### Pocketmine Server
