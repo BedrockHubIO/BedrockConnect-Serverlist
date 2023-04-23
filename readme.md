@@ -54,11 +54,11 @@ It should be structured as follows:
 
 ### Why?
 What are the advantages?
-- Each server has the same server pack
+- Each server has the same server pack.
 - It is easy to manage
-- This pack is empty, so no memory hog! 
-- Good to have for console players. A better gaming experience!
-- It does not bother anyone. No device is affected by it  
+- This pack is empty, so it doesn't hog memory!
+- It improves the gaming experience for console players.
+- It doesn't negatively impact any devices.
 
 Disadvantages: 
 <strong>*No disadvantages*</strong>
@@ -71,10 +71,10 @@ Disadvantages:
 - Just move it into the *Nukkit/resource_packs/* folder
 
 #### Geyser:
-- Just move it into the *geyser-spigot/packs* folder
+- Just move it into the *geyser-spigot/packs/* folder
 
 #### Dragonfly: 
-- No documentation about it at the moment! 
+- There is currently no documentation available. 
 	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
 	
 ##### How do you make a pull-request?
