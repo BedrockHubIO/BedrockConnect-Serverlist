@@ -70,6 +70,9 @@ Disadvantages:
 #### Nukkit Server: 
 - Just move it into the *Nukkit/resource_packs/* folder
 
+#### Geyser:
+- Just move it into the *geyser-spigot/packs* folder
+
 #### Dragonfly: 
 - No documentation about it at the moment! 
 	[Dragonfly Discord](https://discord.gg/NRbJ9Q8zmn)
