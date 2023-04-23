@@ -53,7 +53,8 @@ What are the advantages?
 - Each server has the same server pack
 - It is easy to manage
 - This pack is empty, so no memory hog! 
-- Good to have for console players. A better gaming experience! 
+- Good to have for console players. A better gaming experience!
+- It does not bother anyone. No device is affected by it  
 
 Disadvantages: 
 *No disadvantages* 
