@@ -86,7 +86,7 @@ Disadvantages:
 
 
 
-<strong>Important:</strong> Do not change the UUID, version, engine version and format version! 
+##### <strong>Important:</strong> Do not change the UUID, version, engine version and format version! 
 	
 ##### How do you make a pull-request?
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
