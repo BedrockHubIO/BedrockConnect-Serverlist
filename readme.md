@@ -2,9 +2,9 @@
  
 # Serverlist
 
-| Server Name        | IP                      | Featured  | Partner |      	Pack      	                      |       Serverpack link            |
+| Server Name        | IP                      | Featured  | Partner |      	Pack      	                      | Serverpack link            |
 |--------------------|-------------------------|-----------|---------|--------------------------	              |----------------------------------|
-| Zeqa               | zeqa.net                |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ |https://pack.bedrockhub.io/zeqa
+| Zeqa               | zeqa.net                |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/zeqa
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/paulberger
 | TimeCrack          | play.timecrack.net      |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/timecrack
 | FirstMC            | FirstMc.de              |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/firstmc
