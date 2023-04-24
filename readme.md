@@ -29,14 +29,13 @@
 | RusherVace         | play.rushervace.net     |           |         | https://pack.bedrockhub.io/rushervace
 | RiverNetwork       | rivernetwork.net        |           |         | https://pack.bedrockhub.io/rivernetwork
 | AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
-| Cora               | cora.land               |           |         | https://pack.bedrockhub.io/cora
 | GreiferGames       | griefergames.net        |           |         | https://pack.bedrockhub.io/griefergames
 | Meynex SMP         | MeynexSMP.net           |           |         | https://pack.bedrockhub.io/griefermine
 
 
 # What is the easiest way to add my server to the list?
 
-For this purpose, we have provided a [<strong>Serverpack.ZIP</strong>](https://pack.bedrockhub.io/bedrockconnect) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
+For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
 
 ```json
   {
@@ -64,6 +63,10 @@ Disadvantages:
 <strong>*No disadvantages*</strong>
 
 ### How do I add a texture pack to my server?
+
+1. Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
+
+2. Depending on the server software, you may need to do these things: 
 
 #### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
 - [Documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
