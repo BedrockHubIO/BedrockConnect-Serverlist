@@ -53,14 +53,15 @@ For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://p
 
 ### $\textcolor{green}{\textsf{Why?}}$
 What are the advantages?
-- Each server has the same server pack.
+- $\textcolor{green}{\textsf{Each server has the same server pack.}}$ 
+- $\textcolor{green}{\textsf{No constant and annoying pack updates}}$
+- $\textcolor{green}{\textsf{It improves the gaming experience for console players.}}$  
 - It is easy to manage
 - This pack is empty, so it doesn't hog memory!
-- It improves the gaming experience for console players.
 - It doesn't negatively impact any devices.
 
 Disadvantages: 
-<strong>*No disadvantages*</strong>
+$\textcolor{red}{\textsf{No disadvantages!}}$ 
 
 ### How do I add a texture pack to my server?
 
