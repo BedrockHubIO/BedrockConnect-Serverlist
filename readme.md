@@ -2,7 +2,7 @@
  
 # Serverlist
 
-| Server Name        | IP                      | Featured  | Partner |      	Pack      	                      | Serverpack link            |
+| Server Name        | IP Address              | Featured  | Partner |      	Pack      	                      | Serverpack link            |
 |--------------------|-------------------------|-----------|---------|--------------------------	              |----------------------------------|
 | Zeqa               | zeqa.net                |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/zeqa
 | Paulberger         | mc.paulberger.gg        |           | &#9745; | $\textcolor{magenta}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/paulberger
