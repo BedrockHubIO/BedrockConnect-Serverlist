@@ -2,35 +2,35 @@
 
 # Serverlist
 
-| Server Name        | IP                      | Featured  | Partner |Link (Serverpack) |
-|--------------------|-------------------------|-----------|---------|------------------------------------|
-| Zeqa               | zeqa.net                |           | &#9745; | https://pack.bedrockhub.io/zeqa
-| Paulberger         | mc.paulberger.gg        |           | &#9745; | https://pack.bedrockhub.io/paulberger
-| TimeCrack          | play.timecrack.net      |           | &#9745; | https://pack.bedrockhub.io/timecrack
-| FirstMC            | FirstMc.de              |           | &#9745; | https://pack.bedrockhub.io/firstmc
-| Lifeboat           | mco.lbsg.net            | &#9745;   |         | https://pack.bedrockhub.io/lbsg
-| HiveMC             | geo.hivebedrock.network | &#9745;   |         | https://pack.bedrockhub.io/hivemc
-| CubeCraft          | mco.cubecraft.net       | &#9745;   |         | https://pack.bedrockhub.io/cubecraft
-| PixelParadise      | play.pixelparadise.gg   | &#9745;   |         | https://pack.bedrockhub.io/pixelparadise
-| NetherGames        | play.nethergames.org    |           |         | https://pack.bedrockhub.io/nethergames
-| HyperLands         | play.hyperlandsmc.net   |           |         | https://pack.bedrockhub.io/hyperlands
-| Ectary             | ectary.club             |           |         | https://pack.bedrockhub.io/ectary
-| Avengetech         | play.avengetech.me      |           |         | https://pack.bedrockhub.io/avengetech
-| NitroFaction       | Nitrofaction.fr         |           |         | https://pack.bedrockhub.io/nitrofaction
-| NationsGlory       | bedrock.nationsglory.fr |           |         | https://pack.bedrockhub.io/NationsGlory
-| Plutonium          | mcpe.plutonium.best     |           |         | https://pack.bedrockhub.io/plutonium
-| InfinityMCPE       | play.infinitymcpe.com   |           |         | https://pack.bedrockhub.io/infinitymcpe
-| ZeferaMC           | zeferamc.com            |           |         | https://pack.bedrockhub.io/zeferamc
-| StrikeMC           | java.strikemc.xyz       |           |         | https://pack.bedrockhub.io/strikemc
-| GommeHD            | gommeHD.net             |           |         | https://pack.bedrockhub.io/gommehd
-| OpSucht            | opsucht.net             |           |         | https://pack.bedrockhub.io/opsucht
-| Griefermine        | griefermine.net         |           |         | https://pack.bedrockhub.io/griefermine
-| GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | https://pack.bedrockhub.io/grandtheftmcpe
-| RusherVace         | play.rushervace.net     |           |         | https://pack.bedrockhub.io/rushervace
-| RiverNetwork       | rivernetwork.net        |           |         | https://pack.bedrockhub.io/rivernetwork
-| AkumaMC            | bedrock.akumamc.net     |           |         | https://pack.bedrockhub.io/akumamc
-| GreiferGames       | griefergames.net        |           |         | https://pack.bedrockhub.io/griefergames
-| Meynex SMP         | MeynexSMP.net           |           |         | https://pack.bedrockhub.io/griefermine
+| Server Name        | IP                      | Featured  | Partner |      Pack       |       Serverpack link            |
+|--------------------|-------------------------|-----------|---------|-----------------|----------------------------------|
+| Zeqa               | zeqa.net                |           | &#9745; | ```- Own Pack```| https://pack.bedrockhub.io/zeqa
+| Paulberger         | mc.paulberger.gg        |           | &#9745; |                 | https://pack.bedrockhub.io/paulberger
+| TimeCrack          | play.timecrack.net      |           | &#9745; |                 | https://pack.bedrockhub.io/timecrack
+| FirstMC            | FirstMc.de              |           | &#9745; |                 | https://pack.bedrockhub.io/firstmc
+| Lifeboat           | mco.lbsg.net            | &#9745;   |         |                 | https://pack.bedrockhub.io/lbsg
+| HiveMC             | geo.hivebedrock.network | &#9745;   |         |                 | https://pack.bedrockhub.io/hivemc
+| CubeCraft          | mco.cubecraft.net       | &#9745;   |         |                 | https://pack.bedrockhub.io/cubecraft
+| PixelParadise      | play.pixelparadise.gg   | &#9745;   |         |                 | https://pack.bedrockhub.io/pixelparadise
+| NetherGames        | play.nethergames.org    |           |         |                 | https://pack.bedrockhub.io/nethergames
+| HyperLands         | play.hyperlandsmc.net   |           |         |                 | https://pack.bedrockhub.io/hyperlands
+| Ectary             | ectary.club             |           |         |                 | https://pack.bedrockhub.io/ectary
+| Avengetech         | play.avengetech.me      |           |         |                 | https://pack.bedrockhub.io/avengetech
+| NitroFaction       | Nitrofaction.fr         |           |         |                 | https://pack.bedrockhub.io/nitrofaction
+| NationsGlory       | bedrock.nationsglory.fr |           |         |                 | https://pack.bedrockhub.io/NationsGlory
+| Plutonium          | mcpe.plutonium.best     |           |         |                 | https://pack.bedrockhub.io/plutonium
+| InfinityMCPE       | play.infinitymcpe.com   |           |         |                 | https://pack.bedrockhub.io/infinitymcpe
+| ZeferaMC           | zeferamc.com            |           |         |                 | https://pack.bedrockhub.io/zeferamc
+| StrikeMC           | java.strikemc.xyz       |           |         |                 | https://pack.bedrockhub.io/strikemc
+| GommeHD            | gommeHD.net             |           |         |                 | https://pack.bedrockhub.io/gommehd
+| OpSucht            | opsucht.net             |           |         |                 | https://pack.bedrockhub.io/opsucht
+| Griefermine        | griefermine.net         |           |         |                 | https://pack.bedrockhub.io/griefermine
+| GrandTheftMCPE     | grandtheft.mcpe.me      |           |         |                 | https://pack.bedrockhub.io/grandtheftmcpe
+| RusherVace         | play.rushervace.net     |           |         |                 | https://pack.bedrockhub.io/rushervace
+| RiverNetwork       | rivernetwork.net        |           |         |                 | https://pack.bedrockhub.io/rivernetwork
+| AkumaMC            | bedrock.akumamc.net     |           |         |                 | https://pack.bedrockhub.io/akumamc
+| GreiferGames       | griefergames.net        |           |         |                 | https://pack.bedrockhub.io/griefergames
+| Meynex SMP         | MeynexSMP.net           |           |         |                 | https://pack.bedrockhub.io/griefermine
 
 
 # What is the easiest way to add my server to the list?
@@ -47,6 +47,14 @@ For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://p
     "partner": false
   }
 ```
+
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
 
 ### Serverlist.json
 ![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
