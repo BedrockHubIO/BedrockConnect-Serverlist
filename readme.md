@@ -73,15 +73,15 @@ Disadvantages:
 
 
 #### [Nukkit](https://discord.com/invite/5PzMkyK):
-- Just move it into the *nukkit/resource_packs/* folder and restart server. 
+- Just move it into the ***nukkit/resource_packs/*** folder and restart server. 
 
 
 #### [Geyser](https://discord.com/invite/geysermc):
-- Just move it into the *geyser-spigot/packs/* folder and restart server.
+- Just move it into the ***geyser-spigot/packs/*** folder and restart server.
 
 
 #### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
-- Just move it into the *dragonfly/resources/* folder and restart server.
+- Just move it into the ***dragonfly/resources/*** folder and restart server.
 	
 
 
