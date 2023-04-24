@@ -86,7 +86,7 @@ Disadvantages:
 
 
 
-##### $\textcolor{red}{\textsf{Important: Do not change the UUID, version, engine version and format version! }}$   
+$\textcolor{red}{\textsf{Important: Do not change the UUID, version, engine version and format version! }}$   
 $\textcolor{red}{\textsf{Please do not change anything in the pack. The contents should remain empty!}}$ 
 ##### How do you make a pull-request?
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
