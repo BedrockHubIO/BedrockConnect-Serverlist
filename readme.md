@@ -20,7 +20,7 @@
 | NationsGlory       | bedrock.nationsglory.fr |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/NationsGlory
 | Plutonium          | mcpe.plutonium.best     |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/plutonium
 | InfinityMCPE       | play.infinitymcpe.com   |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/infinitymcpe
-| ZeferaMC           | zeferamc.com            |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/zeferamc
+| ZeferaMC           | zeferamc.com            |           |         | $\textcolor{lightgreen}{\textsf{Global Pack}}$ | https://pack.bedrockhub.io/zeferamc
 | StrikeMC           | java.strikemc.xyz       |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/strikemc
 | GommeHD            | gommeHD.net             |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/gommehd
 | OpSucht            | opsucht.net             |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/opsucht
