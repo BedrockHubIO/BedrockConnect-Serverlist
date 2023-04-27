@@ -6,10 +6,10 @@
 ## Partners
 | Server Name           | IP Address              |  
 |-----------------------|-------------------------|
-| Zeqa       (Partner)  | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
-| Paulberger (Partner)  | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | 
-| TimeCrack  (Partner)  | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 
-| FirstMC    (Partner)  | [FirstMc.de](https://pack.bedrockhub.io/firstmc)                    | 
+| Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
+| Paulberger   | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | 
+| TimeCrack    | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 
+| FirstMC      | [FirstMc.de](https://pack.bedrockhub.io/firstmc)                    | 
 
 ## BedrockConnect Serverpack support
 | Server Name           | IP Address              |
