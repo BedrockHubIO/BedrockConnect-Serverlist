@@ -51,17 +51,17 @@ For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://p
 ### Serverlist.json
 ![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
-### $\textcolor{green}{\textsf{Why?}}$
+### Why?
 What are the advantages?
-- $\textcolor{lightgreen}{\textsf{Each server has the same server pack.}}$ 
-- $\textcolor{lightgreen}{\textsf{No constant and annoying pack updates}}$
-- $\textcolor{lightgreen}{\textsf{It improves the gaming experience for console players.}}$  
+- Each server has the same server pack.
+- No constant and annoying pack updates.
+- It improves the gaming experience for console players. 
 - It is easy to manage
 - This pack is empty, so it doesn't hog memory!
 - It doesn't negatively impact any devices.
 
 Disadvantages: 
-$\textcolor{red}{\textsf{No disadvantages!}}$ 
+No disadvantages!
 
 ### How do I add a texture pack to my server?
 
@@ -87,8 +87,9 @@ $\textcolor{red}{\textsf{No disadvantages!}}$
 
 
 
-$\textcolor{red}{\textsf{Important: Do not change the UUID, version, engine version and format version! }}$   
-$\textcolor{red}{\textsf{Please do not change anything in the pack. The contents should remain empty!}}$ 
+### Important: 
+- Do not change the UUID, version, engine version and format version! 
+- Please do not change anything in the pack. The contents should remain empty!
 ##### How do you make a pull-request?
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
