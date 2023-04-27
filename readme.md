@@ -24,7 +24,7 @@
 | StrikeMC              | [java.strikemc.xyz](https://pack.bedrockhub.io/strikemc)            | Own Pack | 
 | GommeHD               | [gommeHD.net](https://pack.bedrockhub.io/gommehd)                   | Own Pack | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   | Own Pack |  
-| Griefermine           | [griefermine.net](ttps://pack.bedrockhub.io/griefermine)            | Own Pack |  
+| Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)            | Own Pack |  
 | GrandTheftMCPE        | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     | Own Pack | 
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/rushervace)        | Own Pack | 
 | RiverNetwork          | [rivernetwork.net](https://pack.bedrockhub.io/rivernetwork)         | Own Pack |  
