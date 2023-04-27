@@ -1,13 +1,15 @@
 ![BedrockConnect](https://cdn.discordapp.com/attachments/1022232337938911262/1099499823029305384/channels4_banner.jpg)
 
+# About
+
 # Serverlist
 
 | Server Name           | IP Address              |       	Packstatus     	                  |
 |-----------------------|-------------------------|-------------------------------------------|
-| Zeqa (Partner)        | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | Own Pack | 
+| Zeqa       (Partner)  | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | Own Pack | 
 | Paulberger (Partner)  | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | Own Pack | 
-| TimeCrack (Partner)   | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | Own Pack |  
-| FirstMC (Partner)     | [FirstMc.de](https://pack.bedrockhub.io/firstmc)                    | Own Pack |  
+| TimeCrack  (Partner)  | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | Own Pack |  
+| FirstMC    (Partner)  | [FirstMc.de](https://pack.bedrockhub.io/firstmc)                    | Own Pack |  
 | Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     | Own Pack |  
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | Own Pack | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | Own Pack | 
@@ -24,7 +26,7 @@
 | StrikeMC              | [java.strikemc.xyz](https://pack.bedrockhub.io/strikemc)            | Own Pack | 
 | GommeHD               | [gommeHD.net](https://pack.bedrockhub.io/gommehd)                   | Own Pack | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   | Own Pack |  
-| Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)            | Own Pack |  
+| Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | Own Pack |  
 | GrandTheftMCPE        | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     | Own Pack | 
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/rushervace)        | Own Pack | 
 | RiverNetwork          | [rivernetwork.net](https://pack.bedrockhub.io/rivernetwork)         | Own Pack |  
