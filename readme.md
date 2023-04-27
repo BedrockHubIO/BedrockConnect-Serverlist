@@ -2,35 +2,35 @@
  
 # Serverlist
 
-| Server Name        | IP Address              | Featured  | Partner |      	Packstatus     	                      | Serverpack             |
-|--------------------|-------------------------|-----------|---------|--------------------------	              |----------------------------------|
-| Zeqa               | zeqa.net                |           | &#9745; | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/zeqa
-| Paulberger         | mc.paulberger.gg        |           | &#9745; | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/paulberger
-| TimeCrack          | play.timecrack.net      |           | &#9745; | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/timecrack
-| FirstMC            | FirstMc.de              |           | &#9745; | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/firstmc
-| Lifeboat           | mco.lbsg.net            | &#9745;   |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/lbsg
-| HiveMC             | geo.hivebedrock.network | &#9745;   |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/hivemc
-| CubeCraft          | mco.cubecraft.net       | &#9745;   |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/cubecraft
-| PixelParadise      | play.pixelparadise.gg   | &#9745;   |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/pixelparadise
-| NetherGames        | play.nethergames.org    |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/nethergames
-| HyperLands         | play.hyperlandsmc.net   |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/hyperlands
-| Ectary             | ectary.club             |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/ectary
-| Avengetech         | play.avengetech.me      |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/avengetech
-| NitroFaction       | Nitrofaction.fr         |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/nitrofaction
-| NationsGlory       | bedrock.nationsglory.fr |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/NationsGlory
-| Plutonium          | mcpe.plutonium.best     |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/plutonium
-| InfinityMCPE       | play.infinitymcpe.com   |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/infinitymcpe
-| ZeferaMC           | zeferamc.com            |           |         | $\textcolor{lightgreen}{\textsf{Global Pack}}$ | https://pack.bedrockhub.io/bedrockconnect
-| StrikeMC           | java.strikemc.xyz       |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/strikemc
-| GommeHD            | gommeHD.net             |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/gommehd
-| OpSucht            | opsucht.net             |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/opsucht
-| Griefermine        | griefermine.net         |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefermine
-| GrandTheftMCPE     | grandtheft.mcpe.me      |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/grandtheftmcpe
-| RusherVace         | play.rushervace.net     |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/rushervace
-| RiverNetwork       | rivernetwork.net        |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/rivernetwork
-| AkumaMC            | bedrock.akumamc.net     |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/akumamc
-| GreiferGames       | griefergames.net        |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefergames
-| Meynex SMP         | MeynexSMP.net           |           |         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefermine
+| Server Name           | IP Address              |       	Packstatus     	             | Serverpack             |
+|-----------------------|-------------------------|--------------------------------------|----------------------------------|
+| Zeqa (Partner)        | zeqa.net                | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/zeqa
+| Paulberger (Partner)  | mc.paulberger.gg        | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/paulberger
+| TimeCrack (Partner)   | play.timecrack.net      | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/timecrack
+| FirstMC (Partner)     | FirstMc.de              | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/firstmc
+| Lifeboat              | mco.lbsg.net            | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/lbsg
+| HiveMC                | geo.hivebedrock.network | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/hivemc
+| CubeCraft             | mco.cubecraft.net       | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/cubecraft
+| PixelParadise         | play.pixelparadise.gg   | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/pixelparadise
+| NetherGames           | play.nethergames.org    | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/nethergames
+| HyperLands            | play.hyperlandsmc.net   | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/hyperlands
+| Ectary                |   ectary.club           | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/ectary
+| Avengetech            | play.avengetech.me      | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/avengetech
+| NitroFaction          | Nitrofaction.fr         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/nitrofaction
+| NationsGlory          | bedrock.nationsglory.fr | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/NationsGlory
+| Plutonium             | mcpe.plutonium.best     | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/plutonium
+| InfinityMCPE          | play.infinitymcpe.com   | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/infinitymcpe
+| ZeferaMC              | zeferamc.com            | $\textcolor{lightgreen}{\textsf{Global Pack}}$ | https://pack.bedrockhub.io/bedrockconnect
+| StrikeMC              | java.strikemc.xyz       | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/strikemc
+| GommeHD               | gommeHD.net             | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/gommehd
+| OpSucht               | opsucht.net             | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/opsucht
+| Griefermine           | griefermine.net         | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefermine
+| GrandTheftMCPE        | grandtheft.mcpe.me      | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/grandtheftmcpe
+| RusherVace            | play.rushervace.net     | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/rushervace
+| RiverNetwork          | rivernetwork.net        | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/rivernetwork
+| AkumaMC               | bedrock.akumamc.net     | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/akumamc
+| GreiferGames          | griefergames.net        | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefergames
+| Meynex SMP            | MeynexSMP.net           | $\textcolor{red}{\textsf{Own Pack}}$ | https://pack.bedrockhub.io/griefermine
 
 
 # What is the easiest way to add my server to the list?
