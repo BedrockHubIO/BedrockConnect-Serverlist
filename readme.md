@@ -105,6 +105,11 @@ No disadvantages!
 ##### How do you make a pull-request?
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
+# How does it work?
+![image](https://user-images.githubusercontent.com/24614527/235318531-d80540b7-5ca8-4cba-b155-8ddf76c463c6.png)
+
+
+
 ## Our Discord Server
 ![Discord Banner 2](https://discordapp.com/api/guilds/880891245306740807/widget.png?style=banner2)
 =======
