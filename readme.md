@@ -15,7 +15,8 @@
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
 | ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           |
-| Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |  
+| Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
+| RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)        |   
 
 
 ## Own Pack
@@ -38,7 +39,6 @@
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
 | Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | 
 | GrandTheftMCPE        | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |  
-| RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/rushervace)        | 
 | RiverNetwork          | [rivernetwork.net](https://pack.bedrockhub.io/rivernetwork)         |  
 | AkumaMC               | [bedrock.akumamc.net](https://pack.bedrockhub.io/akumamc)           |  
 | GreiferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
