@@ -67,9 +67,9 @@ No disadvantages!
 
 ### How do I add a texture pack to my server?
 
-Step 1. Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
+**Step 1.** Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
 
-Step 2. Depending on the server software, you may need to do these things: 
+**Step 2.** Depending on the server software, you may need to do these things: 
 
 #### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
 - [Documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
@@ -86,7 +86,7 @@ Step 2. Depending on the server software, you may need to do these things:
 #### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
 - Just move it into the ***dragonfly/resources/*** folder and restart server.
 	
-Step 3. Create a Pull request
+**Step 3.** Create a Pull request
 
 ```json
   {
