@@ -88,6 +88,8 @@ No disadvantages!
 
 #### [WaterDog](enable_packs):
 - Enable ```"enable_packs" ``` in ```config.yml```. Just move it into the ***waterdog/packs/*** folder and restart server.
+
+
 	
 **Step 3.** Create a Pull request
 
