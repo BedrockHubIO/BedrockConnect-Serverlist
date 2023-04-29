@@ -14,7 +14,8 @@
 ## BedrockConnect Serverpack support
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
-| ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           | 
+| ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           |
+| Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |  
 
 
 ## Own Pack

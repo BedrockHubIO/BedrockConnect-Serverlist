@@ -254,5 +254,13 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Syodo",
+    "packName": "bedrockconnect",
+    "ip": "syodo.xyz",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
