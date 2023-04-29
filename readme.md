@@ -51,21 +51,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 
 # What is the easiest way to add my server to the list?
 
-For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file. You can manage this file on your server. Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
-
-```json
-  {
-    "displayName": "SERVERNAME",
-    "packName": "bedrockconnect",
-    "ip": "SERVER IP",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  }
-```
-
-### Serverlist.json
-![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
+For this purpose, we have provided a [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file. You can manage this file on your server. 
 
 ### Why?
 What are the advantages?
@@ -81,9 +67,9 @@ No disadvantages!
 
 ### How do I add a texture pack to my server?
 
-1. Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
+Step 1. Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
 
-2. Depending on the server software, you may need to do these things: 
+Step 2. Depending on the server software, you may need to do these things: 
 
 #### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
 - [Documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
@@ -100,7 +86,22 @@ No disadvantages!
 #### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
 - Just move it into the ***dragonfly/resources/*** folder and restart server.
 	
+Step 3. Create a Pull request
 
+```json
+  {
+    "displayName": "SERVERNAME",
+    "packName": "bedrockconnect",
+    "ip": "SERVER IP",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  }
+```
+##### Serverlist.json
+> Please make a pull request to add your server to the list. Just add your server to the serverlist.json file at the very bottom.
+
+![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
 
 ### Important: 
