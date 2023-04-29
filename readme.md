@@ -1,7 +1,7 @@
 ![BedrockConnect](https://cdn.discordapp.com/attachments/1022232337938911262/1099499823029305384/channels4_banner.jpg)
 
 # About
-This is the official server list for the BedrockConnect app. It contains all servers that we support with server packs, enabling custom texture packs for console players. We download server packs automatically using an automated system and always keep them up to date. However, this has some disadvantages. Some servers participate in [our global BedrockConnect server pack](https://pack.bedrockhub.io/bedrockconnect), which provides a unified pack not only for us but also for all players automatically. These servers are marked as "BedrockConnect Serverpack Support" on the list.
+This is the official server list for the [BedrockConnect app](https://bedrockconnect.bedrockhub.io). It contains all servers that we support with server packs, enabling custom texture packs for console players. We download server packs automatically using an automated system and always keep them up to date. However, this has some disadvantages. Some servers participate in [our global BedrockConnect server pack](https://pack.bedrockhub.io/bedrockconnect), which provides a unified pack not only for us but also for all players automatically. These servers are marked as "BedrockConnect Serverpack Support" on the list.
 
 Anyone can add their server to the list themselves! Instructions are provided under "What is the easiest way to add my server to the list?"
 
