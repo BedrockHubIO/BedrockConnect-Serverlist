@@ -110,7 +110,8 @@ No disadvantages!
 - [Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 # How does it work?
-![image](https://user-images.githubusercontent.com/24614527/235318531-d80540b7-5ca8-4cba-b155-8ddf76c463c6.png)
+![User](https://user-images.githubusercontent.com/24614527/235322650-07ff9809-9952-4f88-a09f-dde7c4f5d1e1.png)
+
 
 
 
