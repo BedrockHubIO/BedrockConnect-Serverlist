@@ -6,6 +6,16 @@ This is the official server list for the [BedrockConnect app](https://bedrockcon
 Anyone can add their server to the list themselves! Instructions are provided under "What is the easiest way to add my server to the list?"
 
 
+[Click here](https://youtu.be/jxW7jFbjbOk) for Quick Tutorial.  
+
+##### Chapters
+- Serverlist
+- What is the easiest way to add my server to the list?
+  - Why?
+  - How do I add a texture pack to my server?
+  - Create Pull request (Serverlist.json)
+
+
 # Serverlist
 ## Partners
 | Server Name           | IP Address              |  
