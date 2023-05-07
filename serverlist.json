@@ -176,14 +176,6 @@
     "partner": false
   },
   {
-    "displayName": "InfinityMCPE",
-    "packName": "infinitymcpe",
-    "ip": "play.infinitymcpe.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "StrikeMC",
     "packName": "strikemc",
     "ip": "java.strikemc.xyz",
