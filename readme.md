@@ -56,7 +56,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | GrandTheftMCPE        | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |  
 | RiverNetwork          | [rivernetwork.net](https://pack.bedrockhub.io/rivernetwork)         |  
 | AkumaMC               | [bedrock.akumamc.net](https://pack.bedrockhub.io/akumamc)           |  
-| GreiferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
+| GrieferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
 | Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             | 
 
 
