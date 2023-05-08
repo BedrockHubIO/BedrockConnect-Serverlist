@@ -60,7 +60,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             |
 | CraftersMC            | [play.craftersmc.net](https://pack.bedrockhub.io/craftersmc)        |
 | Complex               | [mbs.mc-complex.com](https://pack.bedrockhub.io/complex)            |
-| MinePlanet            | [mbs.mc-complex.com](https://pack.bedrockhub.io/mineplanet)         |     
+| MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)         |     
 
 
 # What is the easiest way to add my server to the list?
