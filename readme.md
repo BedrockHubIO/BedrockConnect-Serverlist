@@ -57,7 +57,10 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | RiverNetwork          | [rivernetwork.net](https://pack.bedrockhub.io/rivernetwork)         |  
 | AkumaMC               | [bedrock.akumamc.net](https://pack.bedrockhub.io/akumamc)           |  
 | GrieferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
-| Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             | 
+| Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             |
+| CraftersMC            | [play.craftersmc.net](https://pack.bedrockhub.io/craftersmc)        |
+| Complex               | [mbs.mc-complex.com](https://pack.bedrockhub.io/complex)            |
+| MinePlanet            | [mbs.mc-complex.com](https://pack.bedrockhub.io/mineplanet)         |     
 
 
 # What is the easiest way to add my server to the list?

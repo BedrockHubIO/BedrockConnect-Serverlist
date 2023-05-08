@@ -254,5 +254,37 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "CraftersMC",
+    "packName": "craftersmc",
+    "ip": "play.craftersmc.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Complex",
+    "packName": "complex",
+    "ip": "mbs.mc-complex.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "MinePlanet",
+    "packName": "mineplanet",
+    "ip": "play.mineplanet.top",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "MinePlanet",
+    "packName": "mineplanet",
+    "ip": "play.mineplanet.top",
+    "port": 19136,
+    "featured": false,
+    "partner": false
   }
 ]
