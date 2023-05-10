@@ -286,5 +286,13 @@
     "port": 19136,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "OPBlocks",
+    "packName": "opblocks",
+    "ip": "bedrock.opblocks.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
