@@ -184,6 +184,14 @@
     "partner": false
   },
   {
+    "displayName": "RivalMC (StrikeMC)",
+    "packName": "strikemc",
+    "ip": "play.rivalmc.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "ZeferaMC",
     "packName": "bedrockconnect",
     "ip": "zeferamc.com",
@@ -294,5 +302,5 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  }
+  
 ]

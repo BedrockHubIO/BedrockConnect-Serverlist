@@ -49,7 +49,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | NitroFaction          | [Nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
 | NationsGlory          | [bedrock.nationsglory.fr](https://pack.bedrockhub.io/NationsGlory)  | 
 | Plutonium             | [mcpe.plutonium.best](https://pack.bedrockhub.io/plutonium)         |  
-| StrikeMC              | [java.strikemc.xyz](https://pack.bedrockhub.io/strikemc)            | 
+| RivalMC (StrikeMC)    | [play.rivalmc.net](https://pack.bedrockhub.io/strikemc)             | 
 | GommeHD               | [gommeHD.net](https://pack.bedrockhub.io/gommehd)                   | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
 | Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | 
