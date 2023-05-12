@@ -61,7 +61,9 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | CraftersMC            | [play.craftersmc.net](https://pack.bedrockhub.io/craftersmc)        |
 | Complex               | [mbs.mc-complex.com](https://pack.bedrockhub.io/complex)            |
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |
-| OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |         
+| OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
+| Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |         
+
 
 
 # What is the easiest way to add my server to the list?

@@ -302,5 +302,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Histeria",
+    "packName": "histeria",
+    "ip": "play.histeria.fr",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
+
