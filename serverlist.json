@@ -334,6 +334,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "McHub",
+    "packName": "mchub",
+    "ip": "pe.mchub.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 

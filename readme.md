@@ -65,7 +65,8 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
 | Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
 | Reaver Practice       | [play.reaver.live](https://pack.bedrockhub.io/reaver)               |
-| LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |                    
+| LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |
+| McHub                 | [pe.mchub.com](https://pack.bedrockhub.io/mchub)                    |                      
 
 
 
