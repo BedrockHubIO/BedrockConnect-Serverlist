@@ -34,7 +34,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
-| StimoMC               | [stimomc.net](https://pack.bedrockhub.io/bedrockconnect)    |  
+| StimoMC               | [stimomc.com](https://pack.bedrockhub.io/bedrockconnect)    |  
 
 
 ## Own Pack
