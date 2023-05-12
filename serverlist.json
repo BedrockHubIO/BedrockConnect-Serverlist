@@ -8,6 +8,14 @@
     "partner": false
   },
   {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "TimeCrack",
     "packName": "timecrack",
     "ip": "play.timecrack.net",
@@ -299,6 +307,14 @@
     "displayName": "OPBlocks",
     "packName": "opblocks",
     "ip": "bedrock.opblocks.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "StimoMC",
+    "packName": "bedrockconnect",
+    "ip": "stimomc.net",
     "port": 19132,
     "featured": false,
     "partner": false
