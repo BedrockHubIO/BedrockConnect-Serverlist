@@ -326,6 +326,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "LootMC",
+    "packName": "lootmc",
+    "ip": "lootmc.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 

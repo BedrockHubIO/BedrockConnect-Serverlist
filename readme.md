@@ -34,7 +34,7 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
-| StimoMC               | [stimomc.com](https://pack.bedrockhub.io/bedrockconnect)    |  
+| StimoMC               | [stimomc.com](https://pack.bedrockhub.io/bedrockconnect)            |  
 
 
 ## Own Pack
@@ -64,7 +64,8 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |
 | OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
 | Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
-| Reaver Practice       | [play.reaver.live](https://pack.bedrockhub.io/reaver)               |               
+| Reaver Practice       | [play.reaver.live](https://pack.bedrockhub.io/reaver)               |
+| LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |                    
 
 
 
