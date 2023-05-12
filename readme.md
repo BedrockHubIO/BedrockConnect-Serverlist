@@ -63,7 +63,8 @@ Anyone can add their server to the list themselves! Instructions are provided un
 | Complex               | [mbs.mc-complex.com](https://pack.bedrockhub.io/complex)            |
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |
 | OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
-| Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |         
+| Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
+| Reaver Practice       | [play.reaver.live](https://pack.bedrockhub.io/reaver)               |               
 
 
 
