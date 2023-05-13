@@ -16,6 +16,22 @@
     "partner": false
   },
   {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19133,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19136,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "TimeCrack",
     "packName": "timecrack",
     "ip": "play.timecrack.net",
