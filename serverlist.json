@@ -358,6 +358,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Linesia",
+    "packName": "linesia",
+    "ip": "play.linesia.eu",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
