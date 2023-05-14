@@ -2,7 +2,6 @@
 
 # About
 
-Here's an improved version:
 
 Welcome to the official server list for the [BedrockConnect app](https://bedrockconnect.bedrockhub.io), which features all servers that we support with server packs. These packs enable console players to use custom texture packs. Our automated system downloads server packs and keeps them up-to-date. However, there are some downsides to this approach. Certain servers participate in [our global BedrockConnect serverpack](https://pack.bedrockhub.io/bedrockconnect), which provides a unified pack not just for us, but for all players automatically. These servers are labeled as "BedrockConnect Serverpack Support" on the list.
 
