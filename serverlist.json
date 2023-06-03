@@ -336,7 +336,7 @@
     "partner": false
   },
   {
-    "displayName": "Reaver",
+    "displayName": "Reaver", 
     "packName": "reaver",
     "ip": "play.reaver.live",
     "port": 19132,
@@ -366,6 +366,15 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  }
+  },
+  {
+    "displayName": "ecpehub",
+    "packName": "ecpehubfactions",
+    "ip": "ecpehub.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  } 
+
 ]
 
