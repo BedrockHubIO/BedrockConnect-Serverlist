@@ -68,7 +68,10 @@ The good news is that anyone can add their server to the list themselves! Instru
 | LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |
 | McHub                 | [pe.mchub.com](https://pack.bedrockhub.io/mchub)                    |
 | Linesia (Only KitPvP) | [play.linesia.eu](https://pack.bedrockhub.io/linesia)               | 
-| ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)      |                             
+| ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)          |
+| STCraft Network       | [stcraftnet.com](https://pack.bedrockhub.io/stcraft)                |
+| ValixMC               | [play.valixmc.com ](https://pack.bedrockhub.io/valixmc)             |  
+                             
 
 
 
