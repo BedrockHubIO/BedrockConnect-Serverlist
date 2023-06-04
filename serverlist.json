@@ -378,10 +378,18 @@
   {
       "displayName": "STcraft",
       "packName": "stcraft",
-      "ip": "stcraftnet.com",
+      "ip": "play.stcraftnet.com",
       "port": 19132,
       "featured": false,
       "partner": false
+  },
+  {
+    "displayName": "STcraft",
+    "packName": "stcraft",
+    "ip": "stcraftnet.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   },
   {
       "displayName": "ValixMC",
