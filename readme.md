@@ -70,7 +70,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Linesia (Only KitPvP) | [play.linesia.eu](https://pack.bedrockhub.io/linesia)               | 
 | ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)          |
 | STCraft Network       | [play.stcraftnet.com](https://pack.bedrockhub.io/stcraft)           |
-| ValixMC               | [play.valixmc.com ](https://pack.bedrockhub.io/valixmc)             |  
                              
 
 

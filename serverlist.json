@@ -390,15 +390,6 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  },
-  {
-      "displayName": "ValixMC",
-      "packName": "valixmc",
-      "ip": "play.valixmc.com",
-      "port": 19132,
-      "featured": false,
-      "partner": false
-  }  
-
+  }
 ]
 
