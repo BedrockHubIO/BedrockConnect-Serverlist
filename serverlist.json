@@ -160,14 +160,6 @@
     "partner": false
   },
   {
-    "displayName": "Ectary",
-    "packName": "ectary",
-    "ip": "ectary.club",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Avengetech",
     "packName": "avengetech",
     "ip": "play.avengetech.me",
@@ -223,14 +215,6 @@
     "featured": false,
     "partner": false
   },
-  {
-    "displayName": "GommeHD",
-    "packName": "gommehd",
-    "ip": "gommehd.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },  
   {
     "displayName": "OpSucht",
     "packName": "opsucht",
