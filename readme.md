@@ -54,7 +54,8 @@ The good news is that anyone can add their server to the list themselves! Instru
 | RivalMC (StrikeMC)    | [play.rivalmc.net](https://pack.bedrockhub.io/strikemc)             | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
 | Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | 
-| GrandTheftMCPE        | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |   
+| EMB GrandTheftMCPE    | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |
+| EMB Varo              | [varo.mcpe.me](https://pack.bedrockhub.io/varo)                     |    
 | AkumaMC               | [bedrock.akumamc.net](https://pack.bedrockhub.io/akumamc)           |  
 | GrieferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
 | Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             |

@@ -382,6 +382,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "EMBVaro",
+    "packName": "varo",
+    "ip": "varo.mcpe.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
