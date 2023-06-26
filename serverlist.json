@@ -208,14 +208,6 @@
     "partner": false
   },
   {
-    "displayName": "ZeferaMC",
-    "packName": "bedrockconnect",
-    "ip": "zeferamc.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "OpSucht",
     "packName": "opsucht",
     "ip": "opsucht.net",
