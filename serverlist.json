@@ -296,14 +296,6 @@
     "partner": false
   },
   {
-    "displayName": "StimoMC",
-    "packName": "bedrockconnect",
-    "ip": "stimomc.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Histeria",
     "packName": "histeria",
     "ip": "play.histeria.fr",
