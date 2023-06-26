@@ -390,6 +390,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "MineSurge",
+    "packName": "bedrockconnect",
+    "ip": "play.minesurge.org",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
