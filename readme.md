@@ -36,7 +36,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | StimoMC               | [stimomc.net](https://pack.bedrockhub.io/bedrockconnect)            |
 | ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
-| Minesurge              | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)         |     
+| Minesurge             | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)         |     
 
 
 ## Own Pack
