@@ -31,7 +31,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
 | Zentra                | [Zentra.network](https://pack.bedrockhub.io/bedrockconnect)         |
-| ZeferaMC              | [zeferamc.com](https://pack.bedrockhub.io/bedrockconnect)           |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | StimoMC               | [stimomc.net](https://pack.bedrockhub.io/bedrockconnect)            |
