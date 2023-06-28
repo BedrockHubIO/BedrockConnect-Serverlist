@@ -208,14 +208,6 @@
     "partner": false
   },
   {
-    "displayName": "ZeferaMC",
-    "packName": "bedrockconnect",
-    "ip": "zeferamc.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "OpSucht",
     "packName": "opsucht",
     "ip": "opsucht.net",
@@ -304,14 +296,6 @@
     "partner": false
   },
   {
-    "displayName": "StimoMC",
-    "packName": "bedrockconnect",
-    "ip": "stimomc.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Histeria",
     "packName": "histeria",
     "ip": "play.histeria.fr",
@@ -387,6 +371,14 @@
     "displayName": "EMBVaro",
     "packName": "varo",
     "ip": "varo.mcpe.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "MineSurge",
+    "packName": "bedrockconnect",
+    "ip": "play.minesurge.org",
     "port": 19132,
     "featured": false,
     "partner": false
