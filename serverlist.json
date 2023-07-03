@@ -382,6 +382,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Penguin",
+    "packName": "penguin",
+    "ip": "bedrock.penguin.gg",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
