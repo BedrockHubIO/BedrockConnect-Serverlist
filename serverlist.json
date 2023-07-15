@@ -390,6 +390,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Endiorite",
+    "packName": "endiorite",
+    "ip": "play.endiorite.fr",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
