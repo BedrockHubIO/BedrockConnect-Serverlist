@@ -30,11 +30,13 @@ The good news is that anyone can add their server to the list themselves! Instru
 ## Global BedrockConnect Serverpack
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
+| Zerix                 | [Zerix.ml](https://pack.bedrockhub.io/bedrockconnect)               |   
 | Zentra                | [Zentra.network](https://pack.bedrockhub.io/bedrockconnect)         |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
-| Minesurge             | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)         |     
+| Minesurge             | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)          |
+   
 
 
 ## Own Pack
@@ -70,7 +72,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)          |
 | STCraft Network       | [play.stcraftnet.com](https://pack.bedrockhub.io/stcraft)           |
 | Penguin.GG            | [bedrock.penguin.gg](https://pack.bedrockhub.io/penguin)            |
-| Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           |
+| Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           | 
                              
 
 

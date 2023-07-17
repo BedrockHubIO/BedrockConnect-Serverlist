@@ -398,6 +398,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "Zerix",
+    "packName": "bedrockconnect",
+    "ip": "Zerix.ml",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
 
