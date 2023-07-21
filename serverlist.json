@@ -8,9 +8,25 @@
     "partner": false
   },
   {
+    "displayName": "Avengetech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "Zentra",
     "packName": "bedrockconnect",
     "ip": "zentra.network",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "IOSTEIN",
+    "packName": "iostein",
+    "ip": "iostein.de",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -157,14 +173,6 @@
     "ip": "play.pixelparadise.gg",
     "port": 19132,
     "featured": true,
-    "partner": false
-  },
-  {
-    "displayName": "Avengetech",
-    "packName": "avengetech",
-    "ip": "play.avengetech.me",
-    "port": 19132,
-    "featured": false,
     "partner": false
   },
   {
