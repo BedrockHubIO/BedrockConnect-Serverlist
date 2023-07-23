@@ -184,14 +184,6 @@
     "partner": false
   },
   {
-    "displayName": "NationsGlory",
-    "packName": "NationsGlory",
-    "ip": "bedrock.nationsglory.fr",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Plutonium",
     "packName": "plutonium",
     "ip": "mcpe.plutonium.best",

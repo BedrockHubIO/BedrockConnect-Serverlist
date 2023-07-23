@@ -51,7 +51,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 
 | HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
 | NitroFaction          | [Nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
-| NationsGlory          | [bedrock.nationsglory.fr](https://pack.bedrockhub.io/NationsGlory)  | 
 | Plutonium             | [mcpe.plutonium.best](https://pack.bedrockhub.io/plutonium)         |  
 | RivalMC (StrikeMC)    | [play.rivalmc.net](https://pack.bedrockhub.io/strikemc)             | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
