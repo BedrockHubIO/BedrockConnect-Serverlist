@@ -47,7 +47,8 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     |   
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | 
-| PixelParadise         | [play.pixelparadise.gg](https://pack.bedrockhub.io/pixelparadise)   | 
+| PixelParadise         | [play.pixelparadise.gg](https://pack.bedrockhub.io/pixelparadise)   |
+| InPvP                 | [play.inpvp.net](https://pack.bedrockhub.io/inpvp)                  |  
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 
 | HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
 | NitroFaction          | [Nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
