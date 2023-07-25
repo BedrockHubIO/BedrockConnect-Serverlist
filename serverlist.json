@@ -304,14 +304,6 @@
     "partner": false
   },
   {
-    "displayName": "Reaver", 
-    "packName": "reaver",
-    "ip": "play.reaver.live",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "LootMC",
     "packName": "lootmc",
     "ip": "lootmc.com",

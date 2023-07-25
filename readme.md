@@ -66,7 +66,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |
 | OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
 | Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
-| Reaver Practice       | [play.reaver.live](https://pack.bedrockhub.io/reaver)               |
 | LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |
 | McHub                 | [pe.mchub.com](https://pack.bedrockhub.io/mchub)                    |
 | Linesia (Only KitPvP) | [play.linesia.eu](https://pack.bedrockhub.io/linesia)               | 
