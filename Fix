@@ -13,7 +13,15 @@
     "ip": "play.avengetech.net",
     "port": 19132,
     "featured": false,
-    "partner": true
+    "partner": true 
+  },
+  {
+    "displayName": "avengetech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "Zentra",
