@@ -72,6 +72,14 @@
     "partner": true
   },
   {
+    "displayName": "EuPvP",
+    "packName": "bedrockconnect",
+    "ip": "Eupvp.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "Zeqa",
     "packName": "zeqa",
     "ip": "zeqa.net",
