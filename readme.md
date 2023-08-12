@@ -36,7 +36,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Zentra                | [zentra.network](https://pack.bedrockhub.io/bedrockconnect)         |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
-| ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
+| ExoniaMC              | [exoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
 | Minesurge             | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)          |
 | EUPvP                 | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)          |
    
@@ -48,20 +48,18 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     |   
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | 
-| PixelParadise         | [play.pixelparadise.gg](https://pack.bedrockhub.io/pixelparadise)   |
 | InPvP                 | [play.inpvp.net](https://pack.bedrockhub.io/inpvp)                  |  
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 
 | HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
-| NitroFaction          | [Nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
+| NitroFaction          | [nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
 | Plutonium             | [mcpe.plutonium.best](https://pack.bedrockhub.io/plutonium)         |  
-| RivalMC (StrikeMC)    | [play.rivalmc.net](https://pack.bedrockhub.io/strikemc)             | 
+| RivalMC (StrikeMC)    | [play.rivalmc.cc](https://pack.bedrockhub.io/strikemc)             | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
 | Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | 
 | EMB GrandTheftMCPE    | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |
 | EMB Varo              | [varo.mcpe.me](https://pack.bedrockhub.io/varo)                     |    
 | AkumaMC               | [bedrock.akumamc.net](https://pack.bedrockhub.io/akumamc)           |  
 | GrieferGames          | [griefergames.net](https://pack.bedrockhub.io/griefergames)         | 
-| Meynex SMP            | [MeynexSMP.net](https://pack.bedrockhub.io/griefermine)             |
 | CraftersMC            | [play.craftersmc.net](https://pack.bedrockhub.io/craftersmc)        |
 | Complex               | [mbs.mc-complex.com](https://pack.bedrockhub.io/complex)            |
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |

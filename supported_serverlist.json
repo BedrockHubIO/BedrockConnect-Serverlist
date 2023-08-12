@@ -32,7 +32,7 @@
     "partner": false
   },
   {
-    "displayName": "IOSTEIN",
+    "displayName": "IOStein",
     "packName": "iostein",
     "ip": "iostein.de",
     "port": 19132,
@@ -66,7 +66,7 @@
   {
     "displayName": "FirstMC",
     "packName": "firstmc",
-    "ip": "FirstMC.de",
+    "ip": "firstMC.de",
     "port": 19132,
     "featured": false,
     "partner": true
@@ -144,7 +144,7 @@
     "partner": false
   },
   {
-    "displayName": "Lifeboat",
+    "displayName": "LifeBoat",
     "packName": "lbsg",
     "ip": "mco.lbsg.net",
     "port": 19132,
@@ -179,14 +179,6 @@
     "displayName": "CubeCraft",
     "packName": "cubecraft",
     "ip": "mco.cubecraft.net",
-    "port": 19132,
-    "featured": true,
-    "partner": false
-  },
-  {
-    "displayName": "PixelParadise",
-    "packName": "pixelparadise",
-    "ip": "play.pixelparadise.gg",
     "port": 19132,
     "featured": true,
     "partner": false
@@ -251,14 +243,6 @@
     "displayName": "GrieferGames",
     "packName": "griefergames",
     "ip": "griefergames.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Meynex SMP",
-    "packName": "griefermine",
-    "ip": "MeynexSMP.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -351,6 +335,14 @@
     "featured": false,
     "partner": false
   }, 
+  { 
+  "displayName": "RivalMC (StrikeMC)",
+  "packName": "strikemc",
+  "ip": "Play.Rivalmc.cc",
+  "port": 19132,
+  "featured": false,
+  "partner": false
+}, 
   {
       "displayName": "STcraft",
       "packName": "stcraft",
