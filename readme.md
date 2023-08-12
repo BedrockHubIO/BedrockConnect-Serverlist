@@ -39,7 +39,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | ExoniaMC              | [exoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
 | Minesurge             | [minesurge.org](https://pack.bedrockhub.io/bedrockconnect)          |
-| EUPvP                 | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)          |
+| EUPvP                 | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)              |
    
 
 
@@ -54,7 +54,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
 | NitroFaction          | [nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
 | Plutonium             | [mcpe.plutonium.best](https://pack.bedrockhub.io/plutonium)         |  
-| RivalMC (StrikeMC)    | [play.rivalmc.cc](https://pack.bedrockhub.io/strikemc)             | 
+| RivalMC (StrikeMC)    | [play.rivalmc.cc](https://pack.bedrockhub.io/strikemc)              | 
 | OpSucht               | [opsucht.net](https://pack.bedrockhub.io/opsucht)                   |  
 | Griefermine           | [griefermine.net](https://pack.bedrockhub.io/griefermine)           | 
 | EMB GrandTheftMCPE    | [grandtheft.mcpe.me](https://pack.bedrockhub.io/grandtheftmcpe)     |
