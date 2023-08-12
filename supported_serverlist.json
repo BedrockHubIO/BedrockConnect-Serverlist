@@ -24,14 +24,6 @@
     "partner": false
   },
   {
-    "displayName": "EuPvP",
-    "packName": "bedrockconnect",
-    "ip": "Eupvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": true
-  },
-  {
     "displayName": "Zentra",
     "packName": "bedrockconnect",
     "ip": "zentra.network",
@@ -75,6 +67,14 @@
     "displayName": "FirstMC",
     "packName": "firstmc",
     "ip": "firstMC.de",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
+    "displayName": "EuPvP",
+    "packName": "bedrockconnect",
+    "ip": "Eupvp.net",
     "port": 19132,
     "featured": false,
     "partner": true
@@ -344,12 +344,12 @@
   "partner": false
 }, 
   {
-      "displayName": "STcraft",
-      "packName": "stcraft",
-      "ip": "play.stcraftnet.com",
-      "port": 19132,
-      "featured": false,
-      "partner": false
+  "displayName": "STcraft",
+  "packName": "stcraft",
+  "ip": "play.stcraftnet.com",
+  "port": 19132,
+  "featured": false,
+  "partner": false
   },
   {
     "displayName": "STcraft",
