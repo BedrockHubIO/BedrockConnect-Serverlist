@@ -72,7 +72,9 @@ The good news is that anyone can add their server to the list themselves! Instru
 | ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)          |
 | STCraft Network       | [play.stcraftnet.com](https://pack.bedrockhub.io/stcraft)           |
 | Penguin.GG            | [bedrock.penguin.gg](https://pack.bedrockhub.io/penguin)            |
-| Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           | 
+| Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           |
+| BauSucht              | [bausucht.net](https://pack.bedrockhub.io/bausucht)                 |
+| Endiorite             | [play.jackpotmc.com](https://pack.bedrockhub.io/jackpotmc)          |   
                              
 
 
