@@ -414,14 +414,6 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  },
-  {
-    "displayName": "JackPotMC",
-    "packName": "jackpotmc",
-    "ip": "play.jackpotmc.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
   }
 ]
 
