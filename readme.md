@@ -28,7 +28,8 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
 | Paulberger   | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | 
 | TimeCrack    | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 
-| FirstMC      | [firstMc.de](https://pack.bedrockhub.io/firstmc)                    |  
+| FirstMC      | [firstMc.de](https://pack.bedrockhub.io/firstmc)                    |
+| Akani        | [akani.net](https://pack.bedrockhub.io/akani)                       |    
 
 ## Global BedrockConnect Serverpack
 | Server Name           | IP Address              |
