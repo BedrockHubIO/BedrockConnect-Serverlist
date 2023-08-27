@@ -24,7 +24,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 |-----------------------|-------------------------|
 | IOStein      | [iostein.de](https://pack.bedrockhub.io/iostein)                    |
 | EUPvP        | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)              |
-| Avengetech   | [play.avengetech.net](https://pack.bedrockhub.io/avengetech)        | 
 | Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
 | Paulberger   | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | 
 | TimeCrack    | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 

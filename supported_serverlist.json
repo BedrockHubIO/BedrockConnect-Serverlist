@@ -13,7 +13,7 @@
     "ip": "play.avengetech.net",
     "port": 19132,
     "featured": false,
-    "partner": true 
+    "partner": false
   },
   {
     "displayName": "avengetech",
@@ -414,14 +414,6 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  },
-  {
-    "displayName": "Akani",
-    "packName": "akani",
-    "ip": "akani.net",
-    "port": 19132,
-    "featured": false,
-    "partner": true
   }
-]
+
 
