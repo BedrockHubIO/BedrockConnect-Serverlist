@@ -180,7 +180,7 @@
     "packName": "cubecraft",
     "ip": "mco.cubecraft.net",
     "port": 19132,
-    "featured": true,
+    "featured": false,
     "partner": false
   },
   {
@@ -195,22 +195,6 @@
     "displayName": "Plutonium",
     "packName": "plutonium",
     "ip": "mcpe.plutonium.best",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "StrikeMC",
-    "packName": "strikemc",
-    "ip": "java.strikemc.xyz",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "RivalMC (StrikeMC)",
-    "packName": "strikemc",
-    "ip": "play.rivalmc.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -335,14 +319,6 @@
     "featured": false,
     "partner": false
   }, 
-  { 
-  "displayName": "RivalMC (StrikeMC)",
-  "packName": "strikemc",
-  "ip": "Play.Rivalmc.cc",
-  "port": 19132,
-  "featured": false,
-  "partner": false
-}, 
   {
   "displayName": "STcraft",
   "packName": "stcraft",
