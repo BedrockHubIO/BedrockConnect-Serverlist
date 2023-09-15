@@ -89,8 +89,8 @@
   },
   {
     "displayName": "Minevex",
-    "packName": "bedrockconnect",
-    "ip": "geo.minevex.net ",
+    "packName": "null",
+    "ip": "geo.minevex.net",
     "port": 19132,
     "featured": false,
     "partner": true
