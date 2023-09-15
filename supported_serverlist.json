@@ -88,6 +88,14 @@
     "partner": true
   },
   {
+    "displayName": "Minevex",
+    "packName": "bedrockconnect",
+    "ip": "geo.minevex.net ",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "Zeqa Asia",
     "packName": "zeqa",
     "ip": "as.zeqa.net",
