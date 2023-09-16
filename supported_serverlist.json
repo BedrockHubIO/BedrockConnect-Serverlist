@@ -89,7 +89,7 @@
   },
   {
     "displayName": "Minevex",
-    "packName": "null",
+    "packName": "bedrockconnect",
     "ip": "geo.minevex.net",
     "port": 19132,
     "featured": false,
@@ -326,14 +326,14 @@
     "port": 19132,
     "featured": false,
     "partner": false
-  }, 
+  },
   {
-  "displayName": "STcraft",
-  "packName": "stcraft",
-  "ip": "play.stcraftnet.com",
-  "port": 19132,
-  "featured": false,
-  "partner": false
+    "displayName": "STcraft",
+    "packName": "stcraft",
+    "ip": "play.stcraftnet.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   },
   {
     "displayName": "STcraft",
@@ -400,4 +400,3 @@
     "partner": false
   }
 ]
-
