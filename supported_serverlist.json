@@ -188,7 +188,7 @@
     "packName": "cubecraft",
     "ip": "mco.cubecraft.net",
     "port": 19132,
-    "featured": false,
+    "featured": true,
     "partner": false
   },
   {
