@@ -1,4 +1,37 @@
 [
+
+  {
+    "displayName": "HiveMC",
+    "packName": "hivemc",
+    "ip": "geo.hivebedrock.network",
+    "port": 19132,
+    "featured": true,
+    "partner": false
+  },
+  {
+    "displayName": "CubeCraft",
+    "packName": "cubecraft",
+    "ip": "mco.cubecraft.net",
+    "port": 19132,
+    "featured": true,
+    "partner": false
+  },
+  {
+    "displayName": "LifeBoat",
+    "packName": "lbsg",
+    "ip": "mco.lbsg.net",
+    "port": 19132,
+    "featured": true,
+    "partner": false
+  },
+  {
+    "displayName": "InPvP",
+    "packName": "inpvp",
+    "ip": "play.inpvp.net",
+    "port": 19132,
+    "featured": true,
+    "partner": false
+  },
   {
     "displayName": "NetherGames",
     "packName": "nethergames",
@@ -152,43 +185,11 @@
     "partner": false
   },
   {
-    "displayName": "LifeBoat",
-    "packName": "lbsg",
-    "ip": "mco.lbsg.net",
-    "port": 19132,
-    "featured": true,
-    "partner": false
-  },
-  {
-    "displayName": "HiveMC",
-    "packName": "hivemc",
-    "ip": "geo.hivebedrock.network",
-    "port": 19132,
-    "featured": true,
-    "partner": false
-  },
-  {
     "displayName": "HyperLands",
     "packName": "hyperlands",
     "ip": "play.hyperlandsmc.net",
     "port": 19132,
     "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "InPvP",
-    "packName": "inpvp",
-    "ip": "play.inpvp.net",
-    "port": 19132,
-    "featured": true,
-    "partner": false
-  },
-  {
-    "displayName": "CubeCraft",
-    "packName": "cubecraft",
-    "ip": "mco.cubecraft.net",
-    "port": 19132,
-    "featured": true,
     "partner": false
   },
   {
