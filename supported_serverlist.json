@@ -105,6 +105,14 @@
     "partner": true
   },
   {
+  "displayName": "Akani",
+  "packName": "akani",
+  "ip": "akani.net",
+  "port": 19132,
+  "featured": false,
+  "partner": true
+  },
+  {
     "displayName": "EuPvP",
     "packName": "bedrockconnect",
     "ip": "Eupvp.net",
