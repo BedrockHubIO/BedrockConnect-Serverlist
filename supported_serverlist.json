@@ -33,38 +33,6 @@
     "partner": false
   },
   {
-    "displayName": "NetherGames",
-    "packName": "nethergames",
-    "ip": "play.nethergames.org",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "AvengeTech",
-    "packName": "avengetech",
-    "ip": "play.avengetech.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "avengetech",
-    "packName": "avengetech",
-    "ip": "play.avengetech.me",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Zentra",
-    "packName": "bedrockconnect",
-    "ip": "zentra.network",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "IOStein",
     "packName": "iostein",
     "ip": "iostein.de",
@@ -73,33 +41,17 @@
     "partner": true
   },
   {
-    "displayName": "Zentra",
-    "packName": "bedrockconnect",
-    "ip": "zentra.network",
-    "port": 19133,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Zentra",
-    "packName": "bedrockconnect",
-    "ip": "zentra.network",
-    "port": 19136,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "TimeCrack",
-    "packName": "timecrack",
-    "ip": "play.timecrack.net",
+    "displayName": "Zeqa",
+    "packName": "zeqa",
+    "ip": "zeqa.net",
     "port": 19132,
     "featured": false,
     "partner": true
   },
   {
-    "displayName": "FirstMC",
-    "packName": "firstmc",
-    "ip": "firstMC.de",
+    "displayName": "TimeCrack",
+    "packName": "timecrack",
+    "ip": "play.timecrack.net",
     "port": 19132,
     "featured": false,
     "partner": true
@@ -121,9 +73,9 @@
     "partner": true
   },
   {
-    "displayName": "Zeqa",
-    "packName": "zeqa",
-    "ip": "zeqa.net",
+    "displayName": "FirstMC",
+    "packName": "firstmc",
+    "ip": "firstMC.de",
     "port": 19132,
     "featured": false,
     "partner": true
@@ -132,6 +84,14 @@
     "displayName": "Minevex",
     "packName": null,
     "ip": "geo.minevex.net",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
+    "displayName": "Paulberger",
+    "packName": "paulberger",
+    "ip": "mc.paulberger.gg",
     "port": 19132,
     "featured": false,
     "partner": true
@@ -161,20 +121,52 @@
     "partner": false
   },
   {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19133,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19136,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zentra",
+    "packName": "bedrockconnect",
+    "ip": "zentra.network",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "AvengeTech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "avengetech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "GrieferMine",
     "packName": "griefermine",
     "ip": "griefermine.net",
     "port": 19132,
     "featured": false,
     "partner": false
-  },
-  {
-    "displayName": "Paulberger",
-    "packName": "paulberger",
-    "ip": "mc.paulberger.gg",
-    "port": 19132,
-    "featured": false,
-    "partner": true
   },
   {
     "displayName": "GrandTheftMCPE",
@@ -184,18 +176,27 @@
     "featured": false,
     "partner": false
   },
+
   {
-    "displayName": "NetherGames",
-    "packName": "nethergames",
-    "ip": "play.nethergames.net",
+    "displayName": "HyperLands",
+    "packName": "hyperlands",
+    "ip": "play.hyperlandsmc.net",
     "port": 19132,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "HyperLands",
-    "packName": "hyperlands",
-    "ip": "play.hyperlandsmc.net",
+    "displayName": "NetherGames",
+    "packName": "nethergames",
+    "ip": "play.nethergames.org",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "NetherGames",
+    "packName": "nethergames",
+    "ip": "play.nethergames.net",
     "port": 19132,
     "featured": false,
     "partner": false
