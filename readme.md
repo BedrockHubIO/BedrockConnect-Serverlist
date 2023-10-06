@@ -23,7 +23,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Server Name           | IP Address              |  
 |-----------------------|-------------------------|
 | IOStein      | [iostein.de](https://pack.bedrockhub.io/iostein)                    |
-| EUPvP        | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)              |
 | Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
 | Paulberger   | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           | 
 | TimeCrack    | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 

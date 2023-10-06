@@ -70,7 +70,7 @@
     "ip": "Eupvp.net",
     "port": 19132,
     "featured": false,
-    "partner": true
+    "partner": false
   },
   {
     "displayName": "FirstMC",
