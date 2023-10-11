@@ -51,7 +51,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     |   
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | 
-| InPvP                 | [play.inpvp.net](https://pack.bedrockhub.io/inpvp)                  |  
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 
 | HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
 | NitroFaction          | [nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
@@ -68,10 +67,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 | MinePlanet            | [play.mineplanet.top](https://pack.bedrockhub.io/mineplanet)        |
 | OPBlocks              | [bedrock.opblocks.com](https://pack.bedrockhub.io/opblocks)         |
 | Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
-| LootMC                | [lootmc.com](https://pack.bedrockhub.io/lootmc)                     |
-| McHub                 | [pe.mchub.com](https://pack.bedrockhub.io/mchub)                    |
-| Linesia (Only KitPvP) | [play.linesia.eu](https://pack.bedrockhub.io/linesia)               | 
-| ECPEHub (Only Factions)| [ecpehub.net](https://pack.bedrockhub.io/ecpehubfactions)          |
 | STCraft Network       | [play.stcraftnet.com](https://pack.bedrockhub.io/stcraft)           |
 | Penguin.GG            | [bedrock.penguin.gg](https://pack.bedrockhub.io/penguin)            |
 | Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           |

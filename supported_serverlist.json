@@ -25,14 +25,6 @@
     "partner": false
   },
   {
-    "displayName": "InPvP",
-    "packName": "inpvp",
-    "ip": "play.inpvp.net",
-    "port": 19132,
-    "featured": true,
-    "partner": false
-  },
-  {
     "displayName": "IOStein",
     "packName": "iostein",
     "ip": "iostein.de",
@@ -314,38 +306,6 @@
     "partner": false
   },
   {
-    "displayName": "LootMC",
-    "packName": "lootmc",
-    "ip": "lootmc.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "McHub",
-    "packName": "mchub",
-    "ip": "pe.mchub.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Linesia",
-    "packName": "linesia",
-    "ip": "play.linesia.eu",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "ecpehub",
-    "packName": "ecpehubfactions",
-    "ip": "ecpehub.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "STcraft",
     "packName": "stcraft",
     "ip": "play.stcraftnet.com",
@@ -405,6 +365,30 @@
     "displayName": "Zerix",
     "packName": "bedrockconnect",
     "ip": "Zerix.ml",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "StrikeMC",
+    "packName": "StrikeMC",
+    "ip": "play.rivalmc.cc",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "StrikeMC",
+    "packName": "StrikeMC",
+    "ip": "play.rivalmc.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "StrikeMC",
+    "packName": "StrikeMC",
+    "ip": "strikemc.xyz",
     "port": 19132,
     "featured": false,
     "partner": false
