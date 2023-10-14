@@ -393,10 +393,11 @@
     "featured": false,
     "partner": false
   },
+  },
   {
-    "displayName": "BauSucht",
-    "packName": "bausucht",
-    "ip": "bausucht.net",
+    "displayName": "Arcadia",
+    "packName": "bedrockconnect",
+    "ip": "play.mcarcadia.com",
     "port": 19132,
     "featured": false,
     "partner": false
