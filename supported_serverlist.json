@@ -393,6 +393,14 @@
     "featured": false,
     "partner": false
   },
+  {   
+    "displayName": "BauSucht",
+    "packName": "bausucht",
+    "ip": "bausucht.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
   {
     "displayName": "Arcadia",
     "packName": "bedrockconnect",
