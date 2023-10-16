@@ -54,7 +54,7 @@
   "ip": "akani.net",
   "port": 19132,
   "featured": false,
-  "partner": true
+  "partner": false
   },
   {
     "displayName": "EuPvP",
@@ -68,14 +68,6 @@
     "displayName": "FirstMC",
     "packName": "firstmc",
     "ip": "firstMC.de",
-    "port": 19132,
-    "featured": false,
-    "partner": true
-  },
-  {
-    "displayName": "Minevex",
-    "packName": null,
-    "ip": "geo.minevex.net",
     "port": 19132,
     "featured": false,
     "partner": true
