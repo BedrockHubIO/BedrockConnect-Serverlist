@@ -57,14 +57,6 @@
   "partner": false
   },
   {
-    "displayName": "EuPvP",
-    "packName": "bedrockconnect",
-    "ip": "Eupvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "FirstMC",
     "packName": "firstmc",
     "ip": "firstMC.de",

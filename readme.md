@@ -32,7 +32,6 @@ The good news is that anyone can add their server to the list themselves! Instru
 ## Global BedrockConnect Serverpack
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
-| EUPvP                 | [eupvp.net](https://pack.bedrockhub.io/bedrockconnect)              |
 | TrySMP                | [bedrock.trysmp.net](https://pack.bedrockhub.io/bedrockconnect)     |
 | Zerix                 | [zerix.ml](https://pack.bedrockhub.io/bedrockconnect)               |   
 | Zentra                | [zentra.network](https://pack.bedrockhub.io/bedrockconnect)         |
