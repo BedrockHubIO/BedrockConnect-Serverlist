@@ -41,26 +41,122 @@
     "partner": true
   },
   {
-    "displayName": "Zeqa Asia",
+    "displayName": "Zeqa Asia 1",
     "packName": "zeqa",
     "ip": "as.zeqa.net",
-    "port": 19132,
+    "port": 10001,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "Zeqa Europe",
+    "displayName": "Zeqa Asia 2",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 10002,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Asia 3",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 10003,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Asia 4",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 10004,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Asia 5",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 10005,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Europe 1",
     "packName": "zeqa",
     "ip": "eu.zeqa.net",
-    "port": 18132,
+    "port": 10001,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "Zeqa NA",
+    "displayName": "Zeqa Europe 2",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 10002,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Europe 3",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 10003,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Europe 4",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 10004,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Europe 5",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 10005,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 1",
     "packName": "zeqa",
     "ip": "na.zeqa.net",
-    "port": 19132,
+    "port": 10001,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 2",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 10002,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 3",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 10003,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 4",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 10004,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 5",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 10005,
     "featured": false,
     "partner": false
   },
@@ -331,7 +427,7 @@
   },
   {
     "displayName": "StrikeMC",
-    "packName": "strikeMC",
+    "packName": "strikemc",
     "ip": "play.rivalmc.cc",
     "port": 19132,
     "featured": false,
@@ -339,7 +435,7 @@
   },
   {
     "displayName": "StrikeMC",
-    "packName": "strikeMC",
+    "packName": "strikemc",
     "ip": "play.rivalmc.net",
     "port": 19132,
     "featured": false,
@@ -347,7 +443,7 @@
   },
   {
     "displayName": "StrikeMC",
-    "packName": "strikeMC",
+    "packName": "strikemc",
     "ip": "strikemc.xyz",
     "port": 19132,
     "featured": false,
