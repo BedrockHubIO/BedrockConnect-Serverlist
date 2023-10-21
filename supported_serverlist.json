@@ -105,22 +105,6 @@
     "partner": false
   },
   {
-    "displayName": "Zentra",
-    "packName": "bedrockconnect",
-    "ip": "zentra.network",
-    "port": 19136,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Zentra",
-    "packName": "bedrockconnect",
-    "ip": "zentra.network",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "AvengeTech",
     "packName": "avengetech",
     "ip": "play.avengetech.net",
@@ -355,7 +339,7 @@
   },
   {
     "displayName": "StrikeMC",
-    "packName": "StrikeMC",
+    "packName": "strikeMC",
     "ip": "play.rivalmc.cc",
     "port": 19132,
     "featured": false,
@@ -363,7 +347,7 @@
   },
   {
     "displayName": "StrikeMC",
-    "packName": "StrikeMC",
+    "packName": "strikeMC",
     "ip": "play.rivalmc.net",
     "port": 19132,
     "featured": false,
