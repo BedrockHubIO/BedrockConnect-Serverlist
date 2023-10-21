@@ -81,6 +81,14 @@
     "partner": false
   },
   {
+    "displayName": "Zeqa Asia 6",
+    "packName": "zeqa",
+    "ip": "as.zeqa.net",
+    "port": 10006,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "Zeqa Europe 1",
     "packName": "zeqa",
     "ip": "eu.zeqa.net",
@@ -121,6 +129,14 @@
     "partner": false
   },
   {
+    "displayName": "Zeqa Europe 6",
+    "packName": "zeqa",
+    "ip": "eu.zeqa.net",
+    "port": 10006,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "Zeqa America 1",
     "packName": "zeqa",
     "ip": "na.zeqa.net",
@@ -157,6 +173,38 @@
     "packName": "zeqa",
     "ip": "na.zeqa.net",
     "port": 10005,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa America 6",
+    "packName": "zeqa",
+    "ip": "na.zeqa.net",
+    "port": 10006,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Australia 1",
+    "packName": "zeqa",
+    "ip": "au.zeqa.net",
+    "port": 10001,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa South Africa 1",
+    "packName": "zeqa",
+    "ip": "za.zeqa.net",
+    "port": 10001,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Zeqa Middle East 1",
+    "packName": "zeqa",
+    "ip": "me.zeqa.net",
+    "port": 10001,
     "featured": false,
     "partner": false
   },
