@@ -338,6 +338,14 @@
     "partner": false
   },
   {
+    "displayName": "EUPvP",
+    "packName": "bedrockconnect",
+    "ip": "eupvp.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "AkumaMC",
     "packName": "akumamc",
     "ip": "bedrock.akumamc.net",
