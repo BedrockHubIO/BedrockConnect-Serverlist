@@ -442,6 +442,14 @@
     "partner": false
   },
   {
+    "displayName": "Arcadia",
+    "packName": "bedrockconnect",
+    "ip": "play.mcarcadia.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "EMBVaro",
     "packName": "varo",
     "ip": "varo.mcpe.me",
@@ -522,9 +530,9 @@
     "partner": false
   },
   {
-    "displayName": "Arcadia",
-    "packName": "bedrockconnect",
-    "ip": "play.mcarcadia.com",
+    "displayName": "CosmicPE",
+    "packName": "cosmicpe-factions",
+    "ip": "play.cosmicpe.me",
     "port": 19132,
     "featured": false,
     "partner": false
