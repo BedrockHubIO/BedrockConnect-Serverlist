@@ -530,6 +530,14 @@
     "partner": false
   },
   {
+    "displayName": "VenityMC",
+    "packName": "venitymc",
+    "ip": "play.venitymc.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "CosmicPE",
     "packName": "cosmicpe-factions",
     "ip": "play.cosmicpe.me",

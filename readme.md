@@ -73,6 +73,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | JackPotMC             | [play.jackpotmc.com](https://pack.bedrockhub.io/jackpotmc)          | 
 | Akani                 | [akani.net](https://pack.bedrockhub.io/akani)                       |
 | CosmicPE              | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions)    |
+| VenityMC              | [play.venitymc.com](https://pack.bedrockhub.io/venitymc)            |
                              
 
 
