@@ -238,7 +238,7 @@
     "ip": "mc.paulberger.gg",
     "port": 19132,
     "featured": false,
-    "partner": true
+    "partner": false
   },
   {
     "displayName": "AvengeTech",
@@ -338,14 +338,6 @@
     "partner": false
   },
   {
-    "displayName": "EUPvP",
-    "packName": "bedrockconnect",
-    "ip": "eupvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "AkumaMC",
     "packName": "akumamc",
     "ip": "bedrock.akumamc.net",
@@ -434,14 +426,6 @@
     "partner": false
   },
   {
-    "displayName": "ExoniaMC",
-    "packName": "bedrockconnect",
-    "ip": "ExoniaMC.de",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Arcadia",
     "packName": "bedrockconnect",
     "ip": "play.mcarcadia.com",
@@ -458,14 +442,6 @@
     "partner": false
   },
   {
-    "displayName": "MineSurge",
-    "packName": "bedrockconnect",
-    "ip": "play.minesurge.org",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "Penguin",
     "packName": "penguin",
     "ip": "bedrock.penguin.gg",
@@ -477,14 +453,6 @@
     "displayName": "Endiorite",
     "packName": "endiorite",
     "ip": "play.endiorite.fr",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Zerix",
-    "packName": "bedrockconnect",
-    "ip": "Zerix.ml",
     "port": 19132,
     "featured": false,
     "partner": false
