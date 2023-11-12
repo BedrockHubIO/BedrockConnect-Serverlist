@@ -233,12 +233,12 @@
     "partner": true
   },
   {
-    "displayName": "Paulberger",
+    "displayName": "PaulBerger",
     "packName": "paulberger",
     "ip": "mc.paulberger.gg",
     "port": 19132,
     "featured": false,
-    "partner": false
+    "partner": true
   },
   {
     "displayName": "AvengeTech",
