@@ -2,7 +2,7 @@
 
 # About
 
-Welcome to the official server list for [BedrockConnect](https://bedrockconnect.app), your gateway to a world of diverse servers supported by our special server packs. These packs, primarily collected by our bot from various servers, ensure that the gaming experience for console players is exceptionally cool with their own resource packs on servers. [Additionally, we offer a unified, self-developed global pack](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#test).
+Welcome to the official server list for [BedrockConnect](https://bedrockconnect.app), your gateway to a world of diverse servers supported by our special server packs. These packs, primarily collected by our bot from various servers, ensure that the gaming experience for console players is exceptionally cool with their own resource packs on servers. [Additionally, we offer a unified, self-developed global pack](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#introduction-to-bedrockconnect-easily-add-your-server).
 
 **What We Offer:**
 - **Automatic Updates**: Our system consistently downloads and updates server packs to keep your gaming experience up to date, ensuring the server packs are always functional and current.
@@ -11,17 +11,17 @@ Welcome to the official server list for [BedrockConnect](https://bedrockconnect.
 
 **About the App**: Our [tutorial video](https://youtu.be/WVHxB6xfX4s) offers you a quick overview of the BedrockConnect app and its features.
 
-Discover with BedrockConnect how custom resource packs on PlayStation 4/5, Xbox One/Series, and Nintendo Switch revolutionize the gaming experience in Minecraft Bedrock.
+Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbox One/Series, and Nintendo Switch** revolutionize the gaming experience in Minecraft Bedrock.
 
 ---
 
 
 
 ##### Chapters
-- [Supported Serverlist]()
-- [What is the easiest way to add my server to the list?]()
-  - [Introduction to BedrockConnect: Easily Add Your Server!]()
-  - [Create Pull request (Serverlist.json)](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#test)
+- [Supported Serverlist](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#supported-serverlist)
+- [What is the easiest way to add my server to the list?](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#what-is-the-easiest-way-to-add-my-server-to-the-list)
+  - [Introduction to BedrockConnect: Easily Add Your Server!](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#introduction-to-bedrockconnect-easily-add-your-server)
+  - [Create Pull request (Serverlist.json)](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#introduction-to-bedrockconnect-easily-add-your-server)
 
 
 # Supported Serverlist
@@ -34,7 +34,7 @@ Discover with BedrockConnect how custom resource packs on PlayStation 4/5, Xbox 
 | FirstMC      | [firstMc.de](https://pack.bedrockhub.io/firstmc)                    |
  
 
-## Global BedrockConnect Serverpack
+## [Global BedrockConnect Serverpack](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#introduction-to-bedrockconnect-easily-add-your-server)
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
 | TrySMP                | [bedrock.trysmp.net](https://pack.bedrockhub.io/bedrockconnect)     |
@@ -140,7 +140,7 @@ Create a Pull Request to add your server to `serverlist.json`. Use this template
 --- 
 # How does it work?
 
-The [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file simplifies the process of managing server packs by ensuring every server has the same pack. Console players benefit from the custom texture packs, and there's no need for constant updates. It's a win-win for everyone!
+The [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file simplifies the process of managing server packs by ensuring every server has the same pack. Console players benefit from the custom resource packs, and there's no need for constant updates. It's a win-win for everyone!
 
 ![User](https://user-images.githubusercontent.com/24614527/235322925-7f696e85-3091-4c57-a37f-dc6f64eb5ad2.png)
 
