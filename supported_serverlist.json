@@ -362,6 +362,14 @@
     "partner": false
   },
   {
+    "displayName": "TrySMP",
+    "packName": "bedrockconnect",
+    "ip": "bedrock.trysmp.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "CraftersMC",
     "packName": "craftersmc",
     "ip": "play.craftersmc.net",
