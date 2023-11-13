@@ -7,7 +7,7 @@ Welcome to the official server list for [BedrockConnect](https://bedrockconnect.
 **What We Offer:**
 - **Automatic Updates**: Our system consistently downloads and updates server packs to keep your gaming experience up to date, ensuring the server packs are always functional and current.
 - **Unified Global Pack**: Some servers are part of our [global BedrockConnect server pack](https://pack.bedrockhub.io/bedrockconnect). This pack ensures a uniform and seamless gaming experience, not just for our users, but also for all players who join these servers. Servers using this pack are marked as "Global BedrockConnect Serverpack" in our list.
-- **Adding Your Server**: It's easy to add your server to our list. The necessary steps can be found under "What is the easiest way to add my server to the list?".
+- **Adding Your Server**: It's easy to add your server to our list. The necessary steps can be found under ["What is the easiest way to add my server to the list?".](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#what-is-the-easiest-way-to-add-my-server-to-the-list)
 
 **About the App**: Our [tutorial video](https://youtu.be/WVHxB6xfX4s) offers you a quick overview of the BedrockConnect app and its features.
 
