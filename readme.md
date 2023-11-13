@@ -2,23 +2,29 @@
 
 # About
 
+Welcome to the official server list for [BedrockConnect](https://bedrockconnect.app), your gateway to a world of diverse servers supported by our special server packs. These packs, primarily collected by our bot from various servers, ensure that the gaming experience for console players is exceptionally cool with their own resource packs on servers. [Additionally, we offer a unified, self-developed global pack](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#test).
 
-Welcome to the official server list for the [BedrockConnect app](https://bedrockconnect.bedrockhub.io), which features all servers that we support with server packs. These packs enable console players to use custom texture packs. Our automated system downloads server packs and keeps them up-to-date. However, there are some downsides to this approach. Certain servers participate in [our global BedrockConnect serverpack](https://pack.bedrockhub.io/bedrockconnect), which provides a unified pack not just for us, but for all players automatically. These servers are labeled as "Global BedrockConnect Serverpack" on the list.
+**What We Offer:**
+- **Automatic Updates**: Our system consistently downloads and updates server packs to keep your gaming experience up to date, ensuring the server packs are always functional and current.
+- **Unified Global Pack**: Some servers are part of our [global BedrockConnect server pack](https://pack.bedrockhub.io/bedrockconnect). This pack ensures a uniform and seamless gaming experience, not just for our users, but also for all players who join these servers. Servers using this pack are marked as "Global BedrockConnect Serverpack" in our list.
+- **Adding Your Server**: It's easy to add your server to our list. The necessary steps can be found under "What is the easiest way to add my server to the list?".
 
-If you're looking for a quick tutorial, [click here](https://youtu.be/WVHxB6xfX4s).
+**About the App**: Our [tutorial video](https://youtu.be/WVHxB6xfX4s) offers you a quick overview of the BedrockConnect app and its features.
 
-The good news is that anyone can add their server to the list themselves! Instructions can be found under "What is the easiest way to add my server to the list?"
+Discover with BedrockConnect how custom resource packs on PlayStation 4/5, Xbox One/Series, and Nintendo Switch revolutionize the gaming experience in Minecraft Bedrock.
+
+---
+
 
 
 ##### Chapters
-- Serverlist
-- What is the easiest way to add my server to the list?
-  - Why?
-  - How do I add a texture pack to my server?
-  - Create Pull request (Serverlist.json)
+- [Supported Serverlist]()
+- [What is the easiest way to add my server to the list?]()
+  - [Introduction to BedrockConnect: Easily Add Your Server!]()
+  - [Create Pull request (Serverlist.json)](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#test)
 
 
-# Serverlist
+# Supported Serverlist
 ## Partners
 | Server Name           | IP Address              |  
 |-----------------------|-------------------------|
@@ -72,63 +78,66 @@ The good news is that anyone can add their server to the list themselves! Instru
 | VenityMC              | [play.venitymc.com](https://pack.bedrockhub.io/venitymc)            |
                              
 
-
+---
 
 # What is the easiest way to add my server to the list?
 
-To simplify the process, we've created a [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file that you can manage on your server. Here are the benefits of using it:
+To simplify the process, we've created a [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file that you can manage on your server.
 
-- Every server has the same server pack, which eliminates the need for constant and annoying pack updates.
-- Console players have an enhanced gaming experience with custom texture packs.
-- It's effortless to manage, and the pack doesn't hog memory or negatively impact devices.
-- There are no disadvantages!
+# Introduction to BedrockConnect: Easily Add Your Server!
 
-Adding a texture pack to your server is straightforward. Here's how:
+BedrockConnect enhances the Minecraft console gaming experience through custom resource packs. Our [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file simplifies the process of adding your server. Here are the benefits you can expect:
 
-**Step 1.** Download the [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file.
+- **Uniformity**: A standardized server pack for all, reducing update frequency.
+- **Improved Gaming Experience**: Custom textures for console players.
+- **Easy Management**: Low memory footprint, no negative impact on devices.
+- **All Pros, No Cons**: Purely advantageous!
 
-**Step 2.** Depending on your server software, follow the relevant instructions:
+## Step-by-Step Guide
 
-#### [PocketMine](https://discord.com/invite/xxp7VAYQtn): 
-- [Documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml) 
+### Step 1: Download the Serverpack
+Download the [**Serverpack.zip**](https://pack.bedrockhub.io/bedrockconnect).
 
-#### [Nukkit](https://discord.com/invite/5PzMkyK):
-- Simply move the file into the ***nukkit/resource_packs/*** folder and restart the server.
+### Step 2: Follow Server-Specific Instructions
+Choose the instructions that match your server software:
 
-#### [Geyser](https://discord.com/invite/geysermc):
-- Simply move the file into the ***geyser-spigot/packs/*** folder and restart the server.
+- **[PocketMine](https://discord.com/invite/xxp7VAYQtn)**: 
+  - Refer to the [documentation](https://github.com/pmmp/PocketMine-MP/blob/stable/resources/resource_packs.yml).
 
-#### [Dragonfly](https://discord.gg/NRbJ9Q8zmn): 
-- Simply move the file into the ***dragonfly/resources/*** folder and restart the server.
+- **[Nukkit](https://discord.com/invite/5PzMkyK)**:
+  - Move the file to ***nukkit/resource_packs/*** and restart the server.
 
-#### [WaterDog](enable_packs):
-- Enable ```"enable_packs" ``` in ```config.yml```. Simply move the file into the ***waterdog/packs/*** folder and restart the server.
+- **[Geyser](https://discord.com/invite/geysermc)**:
+  - Move the file to ***geyser-spigot/packs/*** and restart the server.
 
-**Step 3.** Create a Pull Request
+- **[Dragonfly](https://discord.gg/NRbJ9Q8zmn)**: 
+  - Move the file to ***dragonfly/resources/*** and restart the server.
 
-Add your server to the `serverlist.json` file at the bottom by making a pull request. Use this template:
+- **[WaterDog](enable_packs)**:
+  - Enable ```"enable_packs"``` in ```config.yml```. Then move the file to ***waterdog/packs/*** and restart the server.
+
+### Step 3: Add Your Server to the List
+Create a Pull Request to add your server to `serverlist.json`. Use this template:
 
 ```json
-  {
-    "displayName": "SERVERNAME",
-    "packName": "bedrockconnect",
-    "ip": "SERVER IP",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  }
+{
+  "displayName": "SERVERNAME",
+  "packName": "bedrockconnect",
+  "ip": "SERVER IP",
+  "port": 19132,
+  "featured": false,
+  "partner": false
+}
 ```
 
-![HowAddthat](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
+![Guide](https://github.com/BedrockHubIO/BedrockConnect-Serverlist/blob/c710fd83b8abb3379d6aa9169727c22f64c66d50/0423-_1_.gif)
 
+**Important to Note**:
+- Do not alter the UUID, version, engine version, or format version.
+- Refrain from modifying the content of the pack.
 
-Please note:
-
-- Do not change the UUID, version, engine version, or format version.
-- Don't modify the pack's contents; keep it empty.
-
-Lastly, if you're unsure how to make a pull request, refer to this [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
-
+**Need Help?** Check out this [Pull Request Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+--- 
 # How does it work?
 
 The [<strong>Serverpack.zip</strong>](https://pack.bedrockhub.io/bedrockconnect) file simplifies the process of managing server packs by ensuring every server has the same pack. Console players benefit from the custom texture packs, and there's no need for constant updates. It's a win-win for everyone!
