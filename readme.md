@@ -34,6 +34,7 @@ The good news is that anyone can add their server to the list themselves! Instru
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | Arcadia               | [play.mcarcadia.com](https://pack.bedrockhub.io/bedrockconnect)     |
+| Breadcorp             | [bedrock.breadcorp.fr](https://pack.bedrockhub.io/bedrockconnect)   |
 
    
 
