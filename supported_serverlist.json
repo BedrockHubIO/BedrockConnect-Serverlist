@@ -512,5 +512,13 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+    "displayName": "BreadCorp",
+    "packName": "bedrockconnect",
+    "ip": "bedrock.breadcorp.fr",
+    "port": 19132,
+    "featured": false,
+    "partner": false
   }
 ]
