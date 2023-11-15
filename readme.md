@@ -113,7 +113,7 @@ Choose the instructions that match your server software:
 - **[Dragonfly](https://discord.gg/NRbJ9Q8zmn)**: 
   - Move the file to ***dragonfly/resources/*** and restart the server.
 
-- **[WaterDog](enable_packs)**:
+- **[WaterDog](https://waterdog.dev)**:
   - Enable ```"enable_packs"``` in ```config.yml```. Then move the file to ***waterdog/packs/*** and restart the server.
 
 ### Step 3: Add Your Server to the List
