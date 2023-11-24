@@ -522,6 +522,14 @@
     "partner": false
   },
   {
+    "displayName": "EUPvP",
+    "packName": "bedrockconnect",
+    "ip": "eupvp.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "BreadCorp",
     "packName": "bedrockconnect",
     "ip": "bedrock.breadcorp.fr",
