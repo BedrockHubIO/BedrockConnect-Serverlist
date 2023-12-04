@@ -9,6 +9,14 @@
     "partner": false
   },
   {
+    "displayName": "Chickencraft",
+    "packName": "null",
+    "ip": "bh.chickencraft.nl",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "CubeCraft",
     "packName": "cubecraft",
     "ip": "mco.cubecraft.net",
