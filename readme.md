@@ -44,7 +44,8 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | Arcadia               | [play.mcarcadia.com](https://pack.bedrockhub.io/bedrockconnect)     |
 | Breadcorp             | [bedrock.breadcorp.fr](https://pack.bedrockhub.io/bedrockconnect)   |
-| PinguGames             | [pingugames.net](https://pack.bedrockhub.io/bedrockconnect)        |
+| PinguGames            | [pingugames.net](https://pack.bedrockhub.io/bedrockconnect)         |
+| ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
 
    
 

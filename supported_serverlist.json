@@ -544,9 +544,17 @@
     "partner": false
   },
   {
-    "displayName": "PinguGames",
+    "displayName": "GrandTheftMCPE",
+    "packName": "grandtheftmcpe",
+    "ip": "grandtheft.mcpe.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "ExoniaMC",
     "packName": "bedrockconnect",
-    "ip": "pingugames.net",
+    "ip": "ExoniaMC.de",
     "port": 19132,
     "featured": false,
     "partner": false
