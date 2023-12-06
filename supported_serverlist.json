@@ -1,5 +1,4 @@
 [
-
   {
     "displayName": "HiveMC",
     "packName": "hivemc",
@@ -7,14 +6,6 @@
     "port": 19132,
     "featured": true,
     "partner": false
-  },
-  {
-    "displayName": "Chickencraft",
-    "packName": "null",
-    "ip": "bh.chickencraft.nl",
-    "port": 19132,
-    "featured": false,
-    "partner": true
   },
   {
     "displayName": "CubeCraft",
@@ -31,6 +22,14 @@
     "port": 19132,
     "featured": true,
     "partner": false
+  },
+  {
+    "displayName": "CrystalMC",
+    "packName": "null",
+    "ip": "bh.crystalmc.org",
+    "port": 19132,
+    "featured": false,
+    "partner": true
   },
   {
     "displayName": "IOStein",
@@ -225,14 +224,6 @@
     "partner": true
   },
   {
-  "displayName": "Akani",
-  "packName": "akani",
-  "ip": "akani.net",
-  "port": 19132,
-  "featured": false,
-  "partner": false
-  },
-  {
     "displayName": "FirstMC",
     "packName": "firstmc",
     "ip": "firstMC.de",
@@ -248,39 +239,6 @@
     "featured": false,
     "partner": true
   },
-  {
-    "displayName": "AvengeTech",
-    "packName": "avengetech",
-    "ip": "play.avengetech.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "avengetech",
-    "packName": "avengetech",
-    "ip": "play.avengetech.me",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "GrieferMine",
-    "packName": "griefermine",
-    "ip": "griefermine.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "GrandTheftMCPE",
-    "packName": "grandtheftmcpe",
-    "ip": "grandtheft.mcpe.me",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-
   {
     "displayName": "HyperLands",
     "packName": "hyperlands",
@@ -541,6 +499,46 @@
     "displayName": "BreadCorp",
     "packName": "bedrockconnect",
     "ip": "bedrock.breadcorp.fr",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+   {
+    "displayName": "AvengeTech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+    {
+    "displayName": "Akani",
+    "packName": "akani",
+    "ip": "akani.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "avengetech",
+    "packName": "avengetech",
+    "ip": "play.avengetech.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "GrieferMine",
+    "packName": "griefermine",
+    "ip": "griefermine.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "GrandTheftMCPE",
+    "packName": "grandtheftmcpe",
+    "ip": "grandtheft.mcpe.me",
     "port": 19132,
     "featured": false,
     "partner": false
