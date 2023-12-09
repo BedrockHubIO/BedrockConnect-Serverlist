@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§bSupport Pack for BedrockConnect §6App§a  §cResource Pack §5/ §3Addon §9Support",
+    "description": "Thanks for using this pack!",
+    "uuid": "abecfa08-703b-1953-ffa4-8ef2eabf8e68",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0ac86cbd-d6ea-1ce2-32d4-d6cce11044f0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "BedrockHub.IO"
+    ],
+    "url": "https://bedrockhub.io"
+  }
+}
