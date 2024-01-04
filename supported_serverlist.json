@@ -266,7 +266,7 @@
   {
     "displayName": "NitroFaction",
     "packName": "nitrofaction",
-    "ip": "Nitrofaction.fr",
+    "ip": "Nitrofaction.fr", 
     "port": 19132,
     "featured": false,
     "partner": false
@@ -275,6 +275,14 @@
     "displayName": "Plutonium",
     "packName": "plutonium",
     "ip": "mcpe.plutonium.best",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Plutonium",
+    "packName": "plutonium",
+    "ip": "play.plutonium.best",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -563,14 +571,6 @@
     "displayName": "Pingugames",
     "packName": "bedrockconnect",
     "ip": "pingugames.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Hesu",
-    "packName": "bedrockconnect",
-    "ip": "hesu.org",
     "port": 19132,
     "featured": false,
     "partner": false
