@@ -45,6 +45,7 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | Breadcorp             | [bedrock.breadcorp.fr](https://pack.bedrockhub.io/bedrockconnect)   |
 | PinguGames            | [pingugames.net](https://pack.bedrockhub.io/bedrockconnect)         |
 | ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
+| Hesu                  | [hesu.org](https://pack.bedrockhub.io/bedrockconnect)               |
 
    
 
