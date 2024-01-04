@@ -24,14 +24,6 @@
     "partner": false
   },
   {
-    "displayName": "CrystalMC",
-    "packName": "null",
-    "ip": "bh.crystalmc.org",
-    "port": 19132,
-    "featured": false,
-    "partner": true
-  },
-  {
     "displayName": "IOStein",
     "packName": "iostein",
     "ip": "iostein.de",
