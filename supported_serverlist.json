@@ -24,6 +24,14 @@
     "partner": false
   },
   {
+    "displayName": "CrystalMC",
+    "packName": "null",
+    "ip": "bh.crystalmc.org",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "IOStein",
     "packName": "iostein",
     "ip": "iostein.de",
@@ -267,14 +275,6 @@
     "displayName": "Plutonium",
     "packName": "plutonium",
     "ip": "mcpe.plutonium.best",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Plutonium",
-    "packName": "plutonium",
-    "ip": "play.plutonium.best",
     "port": 19132,
     "featured": false,
     "partner": false
