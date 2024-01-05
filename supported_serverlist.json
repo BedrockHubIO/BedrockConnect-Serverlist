@@ -232,14 +232,6 @@
     "partner": true
   },
   {
-    "displayName": "HyperLands",
-    "packName": "hyperlands",
-    "ip": "play.hyperlandsmc.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "NetherGames",
     "packName": "nethergames",
     "ip": "play.nethergames.org",

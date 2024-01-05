@@ -57,7 +57,6 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | 
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 
-| HyperLands            | [play.hyperlandsmc.net](https://pack.bedrockhub.io/hyperlands)      | 
 | NitroFaction          | [nitrofaction.fr](https://pack.bedrockhub.io/nitrofaction)          | 
 | Plutonium             | [mcpe.plutonium.best](https://pack.bedrockhub.io/plutonium)         |  
 | RivalMC (StrikeMC)    | [play.rivalmc.cc](https://pack.bedrockhub.io/strikemc)              | 
