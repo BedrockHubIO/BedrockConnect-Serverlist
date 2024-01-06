@@ -552,6 +552,14 @@
     "partner": false
   },
   {
+    "displayName": "DebuffNetwork",
+    "packName": "bedrockconnect",
+    "ip": "debuffNetwork.eu",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "Pingugames",
     "packName": "bedrockconnect",
     "ip": "pingugames.net",
