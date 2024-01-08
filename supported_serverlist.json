@@ -32,6 +32,14 @@
     "partner": true
   },
   {
+    "displayName": "Landnia",
+    "packName": "bedrockconnect",
+    "ip": "landania.net",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "Zeqa",
     "packName": "zeqa",
     "ip": "zeqa.net",
@@ -555,14 +563,6 @@
     "displayName": "DebuffNetwork",
     "packName": "bedrockconnect",
     "ip": "debuffNetwork.eu",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Landnia",
-    "packName": "bedrockconnect",
-    "ip": "landania.net",
     "port": 19132,
     "featured": false,
     "partner": false
