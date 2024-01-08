@@ -38,6 +38,7 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 ## [Global BedrockConnect Serverpack](https://github.com/BedrockHubIO/BedrockConnect-Serverlist#introduction-to-bedrockconnect-easily-add-your-server)
 | Server Name           | IP Address              |
 |-----------------------|-------------------------|
+| Landania              | [landania.net](https://pack.bedrockhub.io/bedrockconnect)           |
 | TrySMP                | [bedrock.trysmp.net](https://pack.bedrockhub.io/bedrockconnect)     |
 | Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
