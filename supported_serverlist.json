@@ -560,6 +560,14 @@
     "partner": false
   },
   {
+    "displayName": "Minecadia",
+    "packName": "minecadia",
+    "ip": "play.minecadia.com",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "DebuffNetwork",
     "packName": "bedrockconnect",
     "ip": "debuffNetwork.eu",
