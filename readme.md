@@ -82,7 +82,8 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | Akani                 | [akani.net](https://pack.bedrockhub.io/akani)                       |
 | CosmicPE              | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions)    |
 | VenityMC              | [play.venitymc.com](https://pack.bedrockhub.io/venitymc)            |
-| Minecadia              | [play.minecadia.com](https://pack.bedrockhub.io/minecadia)            |
+| Minecadia             | [play.minecadia.com](https://pack.bedrockhub.io/minecadia)          |
+| InfinityMCPE          | [play.infinitymcpe.com](https://pack.bedrockhub.io/infinitymcpe)    |
                              
 
 ---
