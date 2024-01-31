@@ -590,5 +590,13 @@
     "port": 19132,
     "featured": false,
     "partner": false
+  },
+  {
+  "displayName": "MeowVanilla",
+  "packName": "bedrockconnect",
+  "ip": "meowvanilla.net",
+  "port": 19132,
+  "featured": false,
+  "partner": false
   }
 ]
