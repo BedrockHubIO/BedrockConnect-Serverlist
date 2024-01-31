@@ -49,6 +49,7 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
 | Hesu                  | [hesu.org](https://pack.bedrockhub.io/bedrockconnect)               |
 | DebuffNetwork         | [DebuffNetwork.eu](https://pack.bedrockhub.io/bedrockconnect)       |
+| MeowVanilla           | [MeowVanilla.net](https://pack.bedrockhub.io/bedrockconnect)        |
 
    
 
