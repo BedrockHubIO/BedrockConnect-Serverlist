@@ -77,11 +77,10 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | Histeria              | [play.histeria.fr](https://pack.bedrockhub.io/histeria)             |
 | STCraft Network       | [play.stcraftnet.com](https://pack.bedrockhub.io/stcraft)           |
 | Penguin.GG            | [bedrock.penguin.gg](https://pack.bedrockhub.io/penguin)            |
-| Endiorite             | [play.endiorite.fr](https://pack.bedrockhub.io/endiorite)           |
 | BauSucht              | [bausucht.net](https://pack.bedrockhub.io/bausucht)                 | 
 | JackPotMC             | [play.jackpotmc.com](https://pack.bedrockhub.io/jackpotmc)          | 
 | Akani                 | [akani.net](https://pack.bedrockhub.io/akani)                       |
-| CosmicPE              | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions)    |
+| CosmicPE (only Factions) | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions)    |
 | VenityMC              | [play.venitymc.com](https://pack.bedrockhub.io/venitymc)            |
 | Minecadia             | [play.minecadia.com](https://pack.bedrockhub.io/minecadia)          |
 | InfinityMCPE          | [play.infinitymcpe.com](https://pack.bedrockhub.io/infinitymcpe)    |

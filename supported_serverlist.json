@@ -282,7 +282,7 @@
   {
     "displayName": "OpSucht",
     "packName": "opsucht",
-    "ip": "opsucht.net",
+    "ip": "bedrock.opsucht.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -290,7 +290,7 @@
   {
     "displayName": "OpSucht",
     "packName": "opsucht",
-    "ip": "bedrock.opsucht.net",
+    "ip": "opsucht.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -424,14 +424,6 @@
     "partner": false
   },
   {
-    "displayName": "Endiorite",
-    "packName": "endiorite",
-    "ip": "play.endiorite.fr",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "StrikeMC",
     "packName": "strikemc",
     "ip": "play.rivalmc.cc",
@@ -483,6 +475,14 @@
     "displayName": "CosmicPE",
     "packName": "cosmicpe-factions",
     "ip": "play.cosmicpe.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "CosmicPE",
+    "packName": "cosmicpe-factions",
+    "ip": "void.cosmicpe.me",
     "port": 19132,
     "featured": false,
     "partner": false
