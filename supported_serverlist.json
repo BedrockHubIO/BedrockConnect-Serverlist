@@ -49,8 +49,8 @@
   },
   {
     "displayName": "Utopiverse",
-    "packName": null,
-    "ip": "bc.utopiverse.net ",
+    "packName": "utopiverse",
+    "ip": "bc.utopiverse.net",
     "port": 19132,
     "featured": false,
     "partner": true
