@@ -30,7 +30,8 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 |-----------------------|-------------------------|
 | IOStein      | [iostein.de](https://pack.bedrockhub.io/iostein)                    |
 | Landania     | [landania.net](https://pack.bedrockhub.io/bedrockconnect)           |
-| Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         | 
+| Zeqa         | [zeqa.net](https://pack.bedrockhub.io/zeqa)                         |
+| Utopiverse   | [bc.utopiverse.net](https://pack.bedrockhub.io/utopiverse)          |  
 | TimeCrack    | [play.timecrack.net](https://pack.bedrockhub.io/timecrack)          | 
 | FirstMC      | [firstMc.de](https://pack.bedrockhub.io/firstmc)                    | 
  

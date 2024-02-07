@@ -48,6 +48,14 @@
     "partner": true
   },
   {
+    "displayName": "Utopiverse",
+    "packName": null,
+    "ip": "bc.utopiverse.net ",
+    "port": 19132,
+    "featured": false,
+    "partner": true
+  },
+  {
     "displayName": "Zeqa Asia 1",
     "packName": "zeqa",
     "ip": "as.zeqa.net",
