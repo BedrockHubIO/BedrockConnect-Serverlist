@@ -600,6 +600,14 @@
     "partner": false
   },
   {
+    "displayName": "Hesu",
+    "packName": "bedrockconnect",
+    "ip": "hesu.org",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
   "displayName": "MeowVanilla",
   "packName": "bedrockconnect",
   "ip": "meowvanilla.net",
