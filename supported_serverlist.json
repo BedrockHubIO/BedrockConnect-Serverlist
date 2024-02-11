@@ -304,14 +304,6 @@
     "partner": false
   },
   {
-    "displayName": "RusherVace",
-    "packName": "bedrockconnect",
-    "ip": "play.rushervace.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "AkumaMC",
     "packName": "akumamc",
     "ip": "bedrock.akumamc.net",
@@ -323,22 +315,6 @@
     "displayName": "GrieferGames",
     "packName": "griefergames",
     "ip": "griefergames.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Syodo",
-    "packName": "bedrockconnect",
-    "ip": "syodo.xyz",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "TrySMP",
-    "packName": "bedrockconnect",
-    "ip": "bedrock.trysmp.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -403,14 +379,6 @@
     "displayName": "STcraft",
     "packName": "stcraft",
     "ip": "stcraftnet.com",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "Arcadia",
-    "packName": "bedrockconnect",
-    "ip": "play.mcarcadia.com",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -495,22 +463,6 @@
     "featured": false,
     "partner": false
   },
-  {
-    "displayName": "EUPvP",
-    "packName": "bedrockconnect",
-    "ip": "eupvp.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
-    "displayName": "BreadCorp",
-    "packName": "bedrockconnect",
-    "ip": "bedrock.breadcorp.fr",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
    {
     "displayName": "AvengeTech",
     "packName": "avengetech",
@@ -568,17 +520,49 @@
     "partner": false
   },
   {
-    "displayName": "ExoniaMC",
-    "packName": "bedrockconnect",
-    "ip": "ExoniaMC.de",
+    "displayName": "Minecadia",
+    "packName": "minecadia",
+    "ip": "play.minecadia.com",
     "port": 19132,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "Minecadia",
-    "packName": "minecadia",
-    "ip": "play.minecadia.com",
+    "displayName": "CosmosMC",
+    "packName": "cosmosmc",
+    "ip": "fun.cosmosmc.org",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "EUPvP",
+    "packName": "bedrockconnect",
+    "ip": "eupvp.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "BreadCorp",
+    "packName": "bedrockconnect",
+    "ip": "bedrock.breadcorp.fr",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "RusherVace",
+    "packName": "bedrockconnect",
+    "ip": "play.rushervace.net",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "TrySMP",
+    "packName": "bedrockconnect",
+    "ip": "bedrock.trysmp.net",
     "port": 19132,
     "featured": false,
     "partner": false
@@ -592,17 +576,17 @@
     "partner": false
   },
   {
-    "displayName": "Pingugames",
+    "displayName": "Hesu",
     "packName": "bedrockconnect",
-    "ip": "pingugames.net",
+    "ip": "hesu.org",
     "port": 19132,
     "featured": false,
     "partner": false
   },
   {
-    "displayName": "Hesu",
+    "displayName": "Arcadia",
     "packName": "bedrockconnect",
-    "ip": "hesu.org",
+    "ip": "play.mcarcadia.com",
     "port": 19132,
     "featured": false,
     "partner": false

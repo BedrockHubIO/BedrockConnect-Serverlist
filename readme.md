@@ -42,15 +42,12 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 |-----------------------|-------------------------|
 | Landania              | [landania.net](https://pack.bedrockhub.io/bedrockconnect)           |
 | TrySMP                | [bedrock.trysmp.net](https://pack.bedrockhub.io/bedrockconnect)     |
-| Syodo                 | [syodo.xyz](https://pack.bedrockhub.io/bedrockconnect)              |
 | RusherVace            | [play.rushervace.net](https://pack.bedrockhub.io/bedrockconnect)    | 
 | Arcadia               | [play.mcarcadia.com](https://pack.bedrockhub.io/bedrockconnect)     |
 | Breadcorp             | [bedrock.breadcorp.fr](https://pack.bedrockhub.io/bedrockconnect)   |
-| PinguGames            | [pingugames.net](https://pack.bedrockhub.io/bedrockconnect)         |
-| ExoniaMC              | [ExoniaMC.de](https://pack.bedrockhub.io/bedrockconnect)            |
 | Hesu                  | [hesu.org](https://pack.bedrockhub.io/bedrockconnect)               |
-| DebuffNetwork         | [DebuffNetwork.eu](https://pack.bedrockhub.io/bedrockconnect)       |
-| MeowVanilla           | [MeowVanilla.net](https://pack.bedrockhub.io/bedrockconnect)        |
+| DebuffNetwork         | [debuffNetwork.eu](https://pack.bedrockhub.io/bedrockconnect)       |
+| MeowVanilla           | [meowVanilla.net](https://pack.bedrockhub.io/bedrockconnect)        |
 
    
 
@@ -81,10 +78,13 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | BauSucht              | [bausucht.net](https://pack.bedrockhub.io/bausucht)                 | 
 | JackPotMC             | [play.jackpotmc.com](https://pack.bedrockhub.io/jackpotmc)          | 
 | Akani                 | [akani.net](https://pack.bedrockhub.io/akani)                       |
-| CosmicPE (only Factions) | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions)    |
+| CosmicPE (only Factions) | [play.cosmicpe.me](https://pack.bedrockhub.io/cosmicpe-factions) |
 | VenityMC              | [play.venitymc.com](https://pack.bedrockhub.io/venitymc)            |
 | Minecadia             | [play.minecadia.com](https://pack.bedrockhub.io/minecadia)          |
 | InfinityMCPE          | [play.infinitymcpe.com](https://pack.bedrockhub.io/infinitymcpe)    |
+| Paulberger            | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           |
+| CosmosMC              | [fun.cosmosmc.org](https://pack.bedrockhub.io/cosmosmc)             |
+
                              
 
 ---
