@@ -424,14 +424,6 @@
     "partner": false
   },
   {
-    "displayName": "BauSucht",
-    "packName": "bausucht",
-    "ip": "bausucht.net",
-    "port": 19132,
-    "featured": false,
-    "partner": false
-  },
-  {
     "displayName": "JackPotMC",
     "packName": "jackpotmc",
     "ip": "play.jackpotmc.com",
@@ -531,6 +523,14 @@
     "displayName": "CosmosMC",
     "packName": "cosmosmc",
     "ip": "fun.cosmosmc.org",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "BauSucht",
+    "packName": "bedrockconnect",
+    "ip": "bausucht.net",
     "port": 19132,
     "featured": false,
     "partner": false
