@@ -488,6 +488,14 @@
     "partner": false
   },
   {
+    "displayName": "Linesia",
+    "packName": "linesia",
+    "ip": "linesia.eu",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "GrieferMine",
     "packName": "griefermine",
     "ip": "griefermine.net",
