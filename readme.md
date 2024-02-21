@@ -84,6 +84,7 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 | InfinityMCPE          | [play.infinitymcpe.com](https://pack.bedrockhub.io/infinitymcpe)    |
 | Paulberger            | [mc.paulberger.gg](https://pack.bedrockhub.io/paulberger)           |
 | CosmosMC              | [fun.cosmosmc.org](https://pack.bedrockhub.io/cosmosmc)             |
+| Mirai                 | [mirai.best](https://pack.bedrockhub.io/mirai)                      |
 
                              
 

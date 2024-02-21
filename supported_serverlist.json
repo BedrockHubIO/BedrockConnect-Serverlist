@@ -463,7 +463,7 @@
     "featured": false,
     "partner": false
   },
-    {
+  {
     "displayName": "Akani",
     "packName": "akani",
     "ip": "akani.net",
@@ -475,6 +475,14 @@
     "displayName": "Avengetech",
     "packName": "avengetech",
     "ip": "play.avengetech.me",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
+    "displayName": "Mirai",
+    "packName": "mirai",
+    "ip": "mirai.best",
     "port": 19132,
     "featured": false,
     "partner": false
