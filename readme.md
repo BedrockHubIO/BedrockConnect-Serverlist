@@ -56,7 +56,8 @@ Discover with BedrockConnect how custom resource packs on **PlayStation 4/5, Xbo
 ## Own Pack
 | Server Name           | IP Address              |    	              
 |-----------------------|-------------------------|
-| Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     |   
+| Lifeboat              | [mco.lbsg.net](https://pack.bedrockhub.io/lbsg)                     |
+| Galaxite              | [play.galaxite.net](https://pack.bedrockhub.io/galaxite)            |     
 | HiveMC                | [geo.hivebedrock.network](https://pack.bedrockhub.io/hivemc)        | 
 | CubeCraft             | [mco.cubecraft.net](https://pack.bedrockhub.io/cubecraft)           | 
 | NetherGames           | [play.nethergames.org](https://pack.bedrockhub.io/nethergames)      | 

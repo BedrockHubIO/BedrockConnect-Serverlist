@@ -16,6 +16,14 @@
     "partner": false
   },
   {
+    "displayName": "Galaxite",
+    "packName": "galaxite",
+    "ip": "play.galaxite.net",
+    "port": 19132,
+    "featured": true,
+    "partner": false
+  },
+  {
     "displayName": "LifeBoat",
     "packName": "lbsg",
     "ip": "mco.lbsg.net",
