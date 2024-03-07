@@ -456,6 +456,14 @@
     "partner": false
   },
   {
+    "displayName": "HerosMC",
+    "packName": "herosmc",
+    "ip": "play.herosmc.xyz",
+    "port": 19132,
+    "featured": false,
+    "partner": false
+  },
+  {
     "displayName": "CosmicPE",
     "packName": "cosmicpe-factions",
     "ip": "play.cosmicpe.me",
