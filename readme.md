@@ -12,14 +12,14 @@ Welcome to the official server list for [BedrockConnect](https://bedrockconnect.
 
 
 # Supported Serverlist
-Moved to https://wiki.bedrockconnect.app/quickstart/the-custom-resource-pack-method/on-which-server-can-i-have-a-resource-pack
+## Moved to https://wiki.bedrockconnect.app/quickstart/the-custom-resource-pack-method/on-which-server-can-i-have-a-resource-pack
 
                              
 
 
 # What is the easiest way to add my server to the list?
 
-moved to https://wiki.bedrockconnect.app/for-server-owners-business/how-can-i-add-my-server-to-the-support-list
+## Moved to https://wiki.bedrockconnect.app/for-server-owners-business/how-can-i-add-my-server-to-the-support-list
 
 
 ## Our Discord Server
